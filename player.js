@@ -59,9 +59,9 @@ const player = (url, players) => {
       peso = parseFloat(peso);
       playerInfo.peso = peso;
 
-      console.log(playerInfo);
+      players = playerInfo;
     }
   });
 };
 
-player("r", "c");
+module.exports = player;
