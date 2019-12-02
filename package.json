@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "web scraping de equipos de la nba para proyecto de bases de datos 2 en a unah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scraping"
+  ],
+  "author": "Misael Landero",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
