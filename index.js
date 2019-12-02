@@ -1,37 +1,44 @@
-const request = require("request");
-const cheerio = require("cheerio");
+const teams = require("./teams");
+const team = require("./team");
+const player = require("./player");
 
-// request("https://www.nba.com/teams", (error, response, html) => {
-//   if (!error && response.statusCode == 200) {
-//     const $ = cheerio.load(html);
-//     let teamRef = [];
-//     let teamName = [];
-//
-//     let teams = $(".team__list").children("a");
-//
-//     for (var i = 0; i < teams.length; i++) {
-//       teamRef.push(teams[i].attribs.href);
-//       teamName.push(teams[i].children[0].data);
-//     }
-//
-//     console.log(teamName);
-//
-//     for (team of teamRef) {
-//       let url = `https://www.nba.com${team.toLowerCase()}`;
-//       //request(url, )
-//       console.log(url);
-//     }
+// const callbackTeam = allTeams => {
+//   for (var i = 0; i < allTeams.length; i++) {
+//     team(allTeams[i], callbackTeams);
 //   }
-// });
+//   // console.log(allTeams);
+// };
+//
+// const callbackTeams = (tmp, players) => {
+//   tmp.players = players;
+//   for (var i = 0; i < players.length; i++) {
+//     player(tmp.players[i], callbackPlayer);
+//   }
+//
+//   console.log(tmp);
+// };
+//
+// const callbackPlayer = (tmp, player) => {
+//   tmp.info = player;
+// };
+//
+// teams(callbackTeam);
 
-request("https://www.nba.com/teams/bucks", (error, response, html) => {
-  if (!error && response.statusCode == 200) {
-    const $ = cheerio.load(html);
+const t = async () => {
+  let test = await teams();
+  for (var i = 0; i < test.length; i++) {
+    test[i].players = await team(test[i].teamRef);
 
-    let players = $(".nba-player-index__trending-item")
-      .find("a")
-      .attr("title");
+    // for (var j = 0; j < test[i].players.length; i++) {
+    //   test[i].players[j].info = await player(test[i].players[j].href);
+    // }
 
-    console.log(players);
+    // for (player of test[i].players) {
+    //   player.info = await player(player.href);
+    // }
   }
-});
+
+  console.log(test);
+};
+
+t();

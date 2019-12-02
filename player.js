@@ -1,9 +1,7 @@
-const request = require("request");
+const axios = require("axios");
 const cheerio = require("cheerio");
 
-const player = (url, players) => {
-  tmpUrl = "https://www.nba.com/players/jarrett/allen/1628386";
-
+const player = async url => {
   const playerInfo = {
     nacimiento: null,
     origen: null,
@@ -11,8 +9,11 @@ const player = (url, players) => {
     peso: null
   };
 
-  request(tmpUrl, (error, response, html) => {
-    if (!error && response.statusCode == 200) {
+  try {
+    const response = await axios.get(url);
+    if (response.status == 200) {
+      const html = response.data;
+
       const $ = cheerio.load(html);
 
       let altura = $(".nba-player-vitals__top-left")
@@ -43,7 +44,7 @@ const player = (url, players) => {
 
       playerInfo.nacimiento = tmp[0];
       playerInfo.origen = tmp[2];
-      players.debut = parseInt(tmp[3]);
+      playerInfo.debut = parseInt(tmp[3]);
 
       altura = altura.replace("/", "");
       altura = altura.replace("\n", "");
@@ -59,9 +60,11 @@ const player = (url, players) => {
       peso = parseFloat(peso);
       playerInfo.peso = peso;
 
-      players = playerInfo;
+      return playerInfo;
     }
-  });
+  } catch (err) {
+    console.log(err);
+  }
 };
 
 module.exports = player;
