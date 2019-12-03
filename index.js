@@ -1,44 +1,45 @@
 const teams = require("./teams");
 const team = require("./team");
 const player = require("./player");
+const fs = require("fs");
+//const writeStream = fs.createWriteStream(`data/${Date.now()}nbaData.json`);
 
-// const callbackTeam = allTeams => {
-//   for (var i = 0; i < allTeams.length; i++) {
-//     team(allTeams[i], callbackTeams);
-//   }
-//   // console.log(allTeams);
-// };
-//
-// const callbackTeams = (tmp, players) => {
-//   tmp.players = players;
-//   for (var i = 0; i < players.length; i++) {
-//     player(tmp.players[i], callbackPlayer);
-//   }
-//
-//   console.log(tmp);
-// };
-//
-// const callbackPlayer = (tmp, player) => {
-//   tmp.info = player;
-// };
-//
-// teams(callbackTeam);
+const getData = async () => {
+  try {
+    let data = await teams();
+    for (let i = 0; i < data.length; i++) {
+      data[i].players = await team(data[i].teamRef);
 
-const t = async () => {
-  let test = await teams();
-  for (var i = 0; i < test.length; i++) {
-    test[i].players = await team(test[i].teamRef);
+      for (let j = 0; j < data[i].players; j++) {
+        data[i].players[j].info = await player(data[i].players[j].herf);
+      }
+    }
+    const filePath = `data/${Date.now()}nbaData.json`;
+    const writeStream = fs.createWriteStream(filePath);
 
-    // for (var j = 0; j < test[i].players.length; i++) {
-    //   test[i].players[j].info = await player(test[i].players[j].href);
-    // }
-
-    // for (player of test[i].players) {
-    //   player.info = await player(player.href);
-    // }
+    await writeStream.write(JSON.stringify(data));
+  } catch (err) {
+    console.log(err);
   }
 
-  console.log(test);
+  // fs.writeFile(
+  //   `./data/${Date.now()}nbaData.json`,
+  //   data,
+  //
+  //   err => {
+  //     if (err) console.log(err);
+  //     else console.log("It's saved!");
+  //   }
+  // );
+
+  // const fd = fs.openSync(filePath, "w");
+  //
+  // fd.writeFile(filePath, data, err => {
+  //   if (err) throw err;
+  //   console.log("It's saved!");
+  // });
+  //
+  // fd.colseSync();
 };
 
-t();
+getData();
