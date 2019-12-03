@@ -26,5 +26,5 @@ const teams = async () => {
     console.log(err);
   }
 };
-//teams();
+
 module.exports = teams;
