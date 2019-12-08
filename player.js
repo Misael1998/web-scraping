@@ -32,19 +32,23 @@ const player = async url => {
       let tmp = [];
       for (var i = 0; i < info.length; i++) {
         try {
-          if (info[i].name == "span" && info[i].children[0].data != undefined) {
+          if (info[i].name == "span") {
             let subTmp = info[i].children[0].data;
             subTmp = subTmp.replace("\n", "");
             subTmp = subTmp.replace("\n", "");
 
             tmp.push(subTmp.replace(/ /g, ""));
           }
-        } catch (err) {}
+        } catch (err) {
+          tmp.push(null);
+        }
       }
 
       playerInfo.nacimiento = tmp[0];
       playerInfo.origen = tmp[2];
-      playerInfo.debut = parseInt(tmp[3]);
+
+      if (tmp[3] == "-") playerInfo.debut = null;
+      else playerInfo.debut = parseInt(tmp[3]);
 
       altura = altura.replace("/", "");
       altura = altura.replace("\n", "");
@@ -59,6 +63,8 @@ const player = async url => {
       peso = peso.replace(" ", "");
       peso = parseFloat(peso);
       playerInfo.peso = peso;
+
+      if (playerInfo.origen == "NoCollege") playerInfo.origen = null;
 
       return playerInfo;
     }

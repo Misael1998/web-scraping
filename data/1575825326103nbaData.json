@@ -1,0 +1,5704 @@
+[
+  {
+    "teamName": "Atlanta Hawks",
+    "teamRef": "https://www.nba.com/teams/hawks",
+    "players": [
+      {
+        "title": "DeAndre' Bembry",
+        "href": "https://www.nba.com/players/deandre'/bembry/1627761",
+        "info": {
+          "nacimiento": "07/04/1994",
+          "origen": "—",
+          "altura": 1.96,
+          "peso": 95.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Charles Brown Jr.",
+        "href": "https://www.nba.com/players/charles/brown_jr./1629718",
+        "info": {
+          "nacimiento": "02/02/1997",
+          "origen": "—",
+          "altura": 1.98,
+          "peso": 90.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Vince Carter",
+        "href": "https://www.nba.com/players/vince/carter/1713",
+        "info": {
+          "nacimiento": "01/26/1977",
+          "origen": "NorthCarolina",
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 1998
+        }
+      },
+      {
+        "title": "John Collins",
+        "href": "https://www.nba.com/players/john/collins/1628381",
+        "info": {
+          "nacimiento": "09/23/1997",
+          "origen": "WakeForest",
+          "altura": 2.06,
+          "peso": 106.6,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Allen Crabbe",
+        "href": "https://www.nba.com/players/allen/crabbe/203459",
+        "info": {
+          "nacimiento": "04/09/1992",
+          "origen": "California",
+          "altura": 1.96,
+          "peso": 96.2,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Bruno Fernando",
+        "href": "https://www.nba.com/players/bruno/fernando/1628981",
+        "info": {
+          "nacimiento": "08/15/1998",
+          "origen": "Maryland",
+          "altura": 2.06,
+          "peso": 108.9,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Brandon Goodwin",
+        "href": "https://www.nba.com/players/brandon/goodwin/1629164",
+        "info": {
+          "nacimiento": "10/02/1995",
+          "origen": "FloridaGulfCoast",
+          "altura": 1.83,
+          "peso": 81.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Kevin Huerter",
+        "href": "https://www.nba.com/players/kevin/huerter/1628989",
+        "info": {
+          "nacimiento": "08/27/1998",
+          "origen": "Maryland",
+          "altura": 2.01,
+          "peso": 86.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "De'Andre Hunter",
+        "href": "https://www.nba.com/players/de'andre/hunter/1629631",
+        "info": {
+          "nacimiento": "12/02/1997",
+          "origen": "Virginia",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Damian Jones",
+        "href": "https://www.nba.com/players/damian/jones/1627745",
+        "info": {
+          "nacimiento": "06/30/1995",
+          "origen": "Vanderbilt",
+          "altura": 2.11,
+          "peso": 111.1,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Alex Len",
+        "href": "https://www.nba.com/players/alex/len/203458",
+        "info": {
+          "nacimiento": "06/16/1993",
+          "origen": "Maryland",
+          "altura": 2.13,
+          "peso": 113.4,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Jabari Parker",
+        "href": "https://www.nba.com/players/jabari/parker/203953",
+        "info": {
+          "nacimiento": "03/15/1995",
+          "origen": "Duke",
+          "altura": 2.03,
+          "peso": 111.1,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Chandler Parsons",
+        "href": "https://www.nba.com/players/chandler/parsons/202718",
+        "info": {
+          "nacimiento": "10/25/1988",
+          "origen": "Florida",
+          "altura": 2.06,
+          "peso": 104.3,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Cam Reddish",
+        "href": "https://www.nba.com/players/cam/reddish/1629629",
+        "info": {
+          "nacimiento": "09/01/1999",
+          "origen": "Duke",
+          "altura": 2.03,
+          "peso": 98.9,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Evan Turner",
+        "href": "https://www.nba.com/players/evan/turner/202323",
+        "info": {
+          "nacimiento": "10/27/1988",
+          "origen": "OhioState",
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Tyrone Wallace",
+        "href": "https://www.nba.com/players/tyrone/wallace/1627820",
+        "info": {
+          "nacimiento": "06/10/1994",
+          "origen": "California",
+          "altura": 1.96,
+          "peso": 89.8,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Trae Young",
+        "href": "https://www.nba.com/players/trae/young/1629027",
+        "info": {
+          "nacimiento": "09/19/1998",
+          "origen": "Oklahoma",
+          "altura": 1.85,
+          "peso": 81.6,
+          "debut": 2018
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Boston Celtics",
+    "teamRef": "https://www.nba.com/teams/celtics",
+    "players": [
+      {
+        "title": "Jaylen Brown",
+        "href": "https://www.nba.com/players/jaylen/brown/1627759",
+        "info": {
+          "nacimiento": "10/24/1996",
+          "origen": "California",
+          "altura": 1.98,
+          "peso": 101.2,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Carsen Edwards",
+        "href": "https://www.nba.com/players/carsen/edwards/1629035",
+        "info": {
+          "nacimiento": "03/12/1998",
+          "origen": "Purdue",
+          "altura": 1.8,
+          "peso": 90.7,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Tacko Fall",
+        "href": "https://www.nba.com/players/tacko/fall/1629605",
+        "info": {
+          "nacimiento": "12/10/1995",
+          "origen": "CentralFlorida",
+          "altura": 2.26,
+          "peso": 141.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Javonte Green",
+        "href": "https://www.nba.com/players/javonte/green/1629750",
+        "info": {
+          "nacimiento": "07/23/1993",
+          "origen": "RadfordUniversity",
+          "altura": 1.93,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Gordon Hayward",
+        "href": "https://www.nba.com/players/gordon/hayward/202330",
+        "info": {
+          "nacimiento": "03/23/1990",
+          "origen": "Butler",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Enes Kanter",
+        "href": "https://www.nba.com/players/enes/kanter/202683",
+        "info": {
+          "nacimiento": "05/20/1992",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 113.4,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Romeo Langford",
+        "href": "https://www.nba.com/players/romeo/langford/1629641",
+        "info": {
+          "nacimiento": "10/25/1999",
+          "origen": "Indiana",
+          "altura": 1.93,
+          "peso": 98,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Semi Ojeleye",
+        "href": "https://www.nba.com/players/semi/ojeleye/1628400",
+        "info": {
+          "nacimiento": "12/05/1994",
+          "origen": "SouthernMethodist",
+          "altura": 1.98,
+          "peso": 108.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Vincent Poirier",
+        "href": "https://www.nba.com/players/vincent/poirier/1629738",
+        "info": {
+          "nacimiento": "10/17/1993",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 106.6,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Marcus Smart",
+        "href": "https://www.nba.com/players/marcus/smart/203935",
+        "info": {
+          "nacimiento": "03/06/1994",
+          "origen": "OklahomaState",
+          "altura": 1.9,
+          "peso": 99.8,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Jayson Tatum",
+        "href": "https://www.nba.com/players/jayson/tatum/1628369",
+        "info": {
+          "nacimiento": "03/03/1998",
+          "origen": "Duke",
+          "altura": 2.03,
+          "peso": 95.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Daniel Theis",
+        "href": "https://www.nba.com/players/daniel/theis/1628464",
+        "info": {
+          "nacimiento": "04/04/1992",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 111.1,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Kemba Walker",
+        "href": "https://www.nba.com/players/kemba/walker/202689",
+        "info": {
+          "nacimiento": "05/08/1990",
+          "origen": "Connecticut",
+          "altura": 1.83,
+          "peso": 83.5,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Brad Wanamaker",
+        "href": "https://www.nba.com/players/brad/wanamaker/202954",
+        "info": {
+          "nacimiento": "07/25/1989",
+          "origen": "Pittsburgh",
+          "altura": 1.9,
+          "peso": 95.3,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Tremont Waters",
+        "href": "https://www.nba.com/players/tremont/waters/1629682",
+        "info": {
+          "nacimiento": "01/10/1998",
+          "origen": "LouisianaState",
+          "altura": 1.78,
+          "peso": 79.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Grant Williams",
+        "href": "https://www.nba.com/players/grant/williams/1629684",
+        "info": {
+          "nacimiento": "11/30/1998",
+          "origen": "Tennessee",
+          "altura": 1.98,
+          "peso": 107,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Robert Williams III",
+        "href": "https://www.nba.com/players/robert/williams_iii/1629057",
+        "info": {
+          "nacimiento": "10/17/1997",
+          "origen": "TexasA&M",
+          "altura": 2.03,
+          "peso": 107.5,
+          "debut": 2018
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Brooklyn Nets",
+    "teamRef": "https://www.nba.com/teams/nets",
+    "players": [
+      {
+        "title": "Jarrett Allen",
+        "href": "https://www.nba.com/players/jarrett/allen/1628386",
+        "info": {
+          "nacimiento": "04/21/1998",
+          "origen": "Texas",
+          "altura": 2.11,
+          "peso": 110.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Wilson Chandler",
+        "href": "https://www.nba.com/players/wilson/chandler/201163",
+        "info": {
+          "nacimiento": "05/10/1987",
+          "origen": "DePaul",
+          "altura": 2.03,
+          "peso": 106.6,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Nicolas Claxton",
+        "href": "https://www.nba.com/players/nicolas/claxton/1629651",
+        "info": {
+          "nacimiento": "04/17/1999",
+          "origen": "Georgia",
+          "altura": 2.11,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Spencer Dinwiddie",
+        "href": "https://www.nba.com/players/spencer/dinwiddie/203915",
+        "info": {
+          "nacimiento": "04/06/1993",
+          "origen": "Colorado",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Kevin Durant",
+        "href": "https://www.nba.com/players/kevin/durant/201142",
+        "info": {
+          "nacimiento": "09/29/1988",
+          "origen": "Texas",
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Henry Ellenson",
+        "href": "https://www.nba.com/players/henry/ellenson/1627740",
+        "info": {
+          "nacimiento": "01/13/1997",
+          "origen": "Marquette",
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Joe Harris",
+        "href": "https://www.nba.com/players/joe/harris/203925",
+        "info": {
+          "nacimiento": "09/06/1991",
+          "origen": "Virginia",
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Kyrie Irving",
+        "href": "https://www.nba.com/players/kyrie/irving/202681",
+        "info": {
+          "nacimiento": "03/23/1992",
+          "origen": "Duke",
+          "altura": 1.88,
+          "peso": 88.5,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "DeAndre Jordan",
+        "href": "https://www.nba.com/players/deandre/jordan/201599",
+        "info": {
+          "nacimiento": "07/21/1988",
+          "origen": "TexasA&M",
+          "altura": 2.11,
+          "peso": 120.2,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Rodions Kurucs",
+        "href": "https://www.nba.com/players/rodions/kurucs/1629066",
+        "info": {
+          "nacimiento": "02/05/1998",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 103.4,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Caris LeVert",
+        "href": "https://www.nba.com/players/caris/levert/1627747",
+        "info": {
+          "nacimiento": "08/25/1994",
+          "origen": "Michigan",
+          "altura": 1.98,
+          "peso": 93,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Timothe Luwawu-Cabarrot",
+        "href": "https://www.nba.com/players/timothe/luwawu-cabarrot/1627789",
+        "info": {
+          "nacimiento": "05/09/1995",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 99.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Dzanan Musa",
+        "href": "https://www.nba.com/players/dzanan/musa/1629058",
+        "info": {
+          "nacimiento": "05/08/1999",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 98.4,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "David Nwaba",
+        "href": "https://www.nba.com/players/david/nwaba/1628021",
+        "info": {
+          "nacimiento": "01/14/1993",
+          "origen": "CalPoly-Obispo",
+          "altura": 1.96,
+          "peso": 99.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Theo Pinson",
+        "href": "https://www.nba.com/players/theo/pinson/1629033",
+        "info": {
+          "nacimiento": "11/05/1995",
+          "origen": "NorthCarolina",
+          "altura": 1.96,
+          "peso": 96.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Taurean Prince",
+        "href": "https://www.nba.com/players/taurean/prince/1627752",
+        "info": {
+          "nacimiento": "03/22/1994",
+          "origen": "Baylor",
+          "altura": 2.01,
+          "peso": 98.9,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Iman Shumpert",
+        "href": "https://www.nba.com/players/iman/shumpert/202697",
+        "info": {
+          "nacimiento": "06/26/1990",
+          "origen": "GeorgiaTech",
+          "altura": 1.96,
+          "peso": 96.2,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Garrett Temple",
+        "href": "https://www.nba.com/players/garrett/temple/202066",
+        "info": {
+          "nacimiento": "05/08/1986",
+          "origen": "LouisianaState",
+          "altura": 1.96,
+          "peso": 88.5,
+          "debut": 2009
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Charlotte Hornets",
+    "teamRef": "https://www.nba.com/teams/hornets",
+    "players": [
+      {
+        "title": "Dwayne Bacon",
+        "href": "https://www.nba.com/players/dwayne/bacon/1628407",
+        "info": {
+          "nacimiento": "08/30/1995",
+          "origen": "FloridaState",
+          "altura": 1.98,
+          "peso": 100.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Nicolas Batum",
+        "href": "https://www.nba.com/players/nicolas/batum/201587",
+        "info": {
+          "nacimiento": "12/14/1988",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 104.3,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Bismack Biyombo",
+        "href": "https://www.nba.com/players/bismack/biyombo/202687",
+        "info": {
+          "nacimiento": "08/28/1992",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 115.7,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Miles Bridges",
+        "href": "https://www.nba.com/players/miles/bridges/1628970",
+        "info": {
+          "nacimiento": "03/21/1998",
+          "origen": "MichiganState",
+          "altura": 1.98,
+          "peso": 102.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Robert Franks",
+        "href": "https://www.nba.com/players/robert/franks/1629606",
+        "info": {
+          "nacimiento": "12/18/1996",
+          "origen": "WashingtonState",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": null
+        }
+      },
+      {
+        "title": "Devonte' Graham",
+        "href": "https://www.nba.com/players/devonte'/graham/1628984",
+        "info": {
+          "nacimiento": "02/22/1995",
+          "origen": "Kansas",
+          "altura": 1.85,
+          "peso": 88.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Willy Hernangomez",
+        "href": "https://www.nba.com/players/willy/hernangomez/1626195",
+        "info": {
+          "nacimiento": "05/27/1994",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Michael Kidd-Gilchrist",
+        "href": "https://www.nba.com/players/michael/kidd-gilchrist/203077",
+        "info": {
+          "nacimiento": "09/26/1993",
+          "origen": "Kentucky",
+          "altura": 1.98,
+          "peso": 105.2,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Caleb Martin",
+        "href": "https://www.nba.com/players/caleb/martin/1628997",
+        "info": {
+          "nacimiento": "09/28/1995",
+          "origen": "Nevada-Reno",
+          "altura": 1.96,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Cody Martin",
+        "href": "https://www.nba.com/players/cody/martin/1628998",
+        "info": {
+          "nacimiento": "09/28/1995",
+          "origen": "Nevada-Reno",
+          "altura": 1.96,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jalen McDaniels",
+        "href": "https://www.nba.com/players/jalen/mcdaniels/1629667",
+        "info": {
+          "nacimiento": "01/31/1998",
+          "origen": "SanDiegoState",
+          "altura": 2.08,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Malik Monk",
+        "href": "https://www.nba.com/players/malik/monk/1628370",
+        "info": {
+          "nacimiento": "02/04/1998",
+          "origen": "Kentucky",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Terry Rozier",
+        "href": "https://www.nba.com/players/terry/rozier/1626179",
+        "info": {
+          "nacimiento": "03/17/1994",
+          "origen": "Louisville",
+          "altura": 1.85,
+          "peso": 86.2,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Kobi Simmons",
+        "href": "https://www.nba.com/players/kobi/simmons/1628424",
+        "info": {
+          "nacimiento": "07/04/1997",
+          "origen": "Arizona",
+          "altura": 1.96,
+          "peso": 81.6,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "P.J. Washington",
+        "href": "https://www.nba.com/players/p.j./washington/1629023",
+        "info": {
+          "nacimiento": "08/23/1998",
+          "origen": "Kentucky",
+          "altura": 2.01,
+          "peso": 104.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Marvin Williams",
+        "href": "https://www.nba.com/players/marvin/williams/101107",
+        "info": {
+          "nacimiento": "06/19/1986",
+          "origen": "NorthCarolina",
+          "altura": 2.03,
+          "peso": 107.5,
+          "debut": 2005
+        }
+      },
+      {
+        "title": "Cody Zeller",
+        "href": "https://www.nba.com/players/cody/zeller/203469",
+        "info": {
+          "nacimiento": "10/05/1992",
+          "origen": "Indiana",
+          "altura": 2.13,
+          "peso": 108.9,
+          "debut": 2013
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Chicago Bulls",
+    "teamRef": "https://www.nba.com/teams/bulls",
+    "players": [
+      {
+        "title": "Ryan Arcidiacono",
+        "href": "https://www.nba.com/players/ryan/arcidiacono/1627853",
+        "info": {
+          "nacimiento": "03/26/1994",
+          "origen": "Villanova",
+          "altura": 1.9,
+          "peso": 88.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Wendell Carter Jr.",
+        "href": "https://www.nba.com/players/wendell/carter_jr./1628976",
+        "info": {
+          "nacimiento": "04/16/1999",
+          "origen": "Duke",
+          "altura": 2.06,
+          "peso": 122.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Kris Dunn",
+        "href": "https://www.nba.com/players/kris/dunn/1627739",
+        "info": {
+          "nacimiento": "03/18/1994",
+          "origen": "Providence",
+          "altura": 1.9,
+          "peso": 93,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Cristiano Felicio",
+        "href": "https://www.nba.com/players/cristiano/felicio/1626245",
+        "info": {
+          "nacimiento": "07/07/1992",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 122.5,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Daniel Gafford",
+        "href": "https://www.nba.com/players/daniel/gafford/1629655",
+        "info": {
+          "nacimiento": "10/01/1998",
+          "origen": "Arkansas",
+          "altura": 2.08,
+          "peso": 106.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Shaquille Harrison",
+        "href": "https://www.nba.com/players/shaquille/harrison/1627885",
+        "info": {
+          "nacimiento": "10/06/1993",
+          "origen": "Tulsa",
+          "altura": 2.01,
+          "peso": 86.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Chandler Hutchison",
+        "href": "https://www.nba.com/players/chandler/hutchison/1628990",
+        "info": {
+          "nacimiento": "04/26/1996",
+          "origen": "BoiseState",
+          "altura": 2.01,
+          "peso": 95.3,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Luke Kornet",
+        "href": "https://www.nba.com/players/luke/kornet/1628436",
+        "info": {
+          "nacimiento": "07/15/1995",
+          "origen": "Vanderbilt",
+          "altura": 2.18,
+          "peso": 113.4,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Zach LaVine",
+        "href": "https://www.nba.com/players/zach/lavine/203897",
+        "info": {
+          "nacimiento": "03/10/1995",
+          "origen": "UCLA",
+          "altura": 1.98,
+          "peso": 90.7,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Lauri Markkanen",
+        "href": "https://www.nba.com/players/lauri/markkanen/1628374",
+        "info": {
+          "nacimiento": "05/22/1997",
+          "origen": "Arizona",
+          "altura": 2.13,
+          "peso": 108.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Adam Mokoka",
+        "href": "https://www.nba.com/players/adam/mokoka/1629690",
+        "info": {
+          "nacimiento": "07/18/1998",
+          "origen": null,
+          "altura": 1.96,
+          "peso": 86.2,
+          "debut": null
+        }
+      },
+      {
+        "title": "Otto Porter Jr.",
+        "href": "https://www.nba.com/players/otto/porter_jr./203490",
+        "info": {
+          "nacimiento": "06/03/1993",
+          "origen": "Georgetown",
+          "altura": 2.03,
+          "peso": 89.8,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Tomas Satoransky",
+        "href": "https://www.nba.com/players/tomas/satoransky/203107",
+        "info": {
+          "nacimiento": "10/30/1991",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 95.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Max Strus",
+        "href": "https://www.nba.com/players/max/strus/1629622",
+        "info": {
+          "nacimiento": "03/28/1996",
+          "origen": "DePaul",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Denzel Valentine",
+        "href": "https://www.nba.com/players/denzel/valentine/1627756",
+        "info": {
+          "nacimiento": "11/16/1993",
+          "origen": "MichiganState",
+          "altura": 1.93,
+          "peso": 99.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Coby White",
+        "href": "https://www.nba.com/players/coby/white/1629632",
+        "info": {
+          "nacimiento": "02/16/2000",
+          "origen": "NorthCarolina",
+          "altura": 1.93,
+          "peso": 88.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Thaddeus Young",
+        "href": "https://www.nba.com/players/thaddeus/young/201152",
+        "info": {
+          "nacimiento": "06/21/1988",
+          "origen": "GeorgiaTech",
+          "altura": 2.03,
+          "peso": 106.6,
+          "debut": 2007
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Cleveland Cavaliers",
+    "teamRef": "https://www.nba.com/teams/cavaliers",
+    "players": [
+      {
+        "title": "Jordan Clarkson",
+        "href": "https://www.nba.com/players/jordan/clarkson/203903",
+        "info": {
+          "nacimiento": "06/07/1992",
+          "origen": "Missouri",
+          "altura": 1.93,
+          "peso": 88,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Tyler Cook",
+        "href": "https://www.nba.com/players/tyler/cook/1629076",
+        "info": {
+          "nacimiento": "09/23/1997",
+          "origen": "Iowa",
+          "altura": 2.03,
+          "peso": 115.7,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Matthew Dellavedova",
+        "href": "https://www.nba.com/players/matthew/dellavedova/203521",
+        "info": {
+          "nacimiento": "09/08/1990",
+          "origen": "St.Mary's(CA)",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Darius Garland",
+        "href": "https://www.nba.com/players/darius/garland/1629636",
+        "info": {
+          "nacimiento": "01/26/2000",
+          "origen": "Vanderbilt",
+          "altura": 1.85,
+          "peso": 87.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "John Henson",
+        "href": "https://www.nba.com/players/john/henson/203089",
+        "info": {
+          "nacimiento": "12/28/1990",
+          "origen": "NorthCarolina",
+          "altura": 2.06,
+          "peso": 99.3,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Brandon Knight",
+        "href": "https://www.nba.com/players/brandon/knight/202688",
+        "info": {
+          "nacimiento": "12/02/1991",
+          "origen": "Kentucky",
+          "altura": 1.88,
+          "peso": 82.6,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Kevin Love",
+        "href": "https://www.nba.com/players/kevin/love/201567",
+        "info": {
+          "nacimiento": "09/07/1988",
+          "origen": "UCLA",
+          "altura": 2.03,
+          "peso": 113.9,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Alfonzo McKinnie",
+        "href": "https://www.nba.com/players/alfonzo/mckinnie/1628035",
+        "info": {
+          "nacimiento": "09/17/1992",
+          "origen": "Wisc.-GreenBay",
+          "altura": 2.01,
+          "peso": 97.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Larry Nance Jr.",
+        "href": "https://www.nba.com/players/larry/nance_jr./1626204",
+        "info": {
+          "nacimiento": "01/01/1993",
+          "origen": "Wyoming",
+          "altura": 2.01,
+          "peso": 111.1,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Cedi Osman",
+        "href": "https://www.nba.com/players/cedi/osman/1626224",
+        "info": {
+          "nacimiento": "04/08/1995",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 104.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Kevin Porter Jr.",
+        "href": "https://www.nba.com/players/kevin/porter_jr./1629645",
+        "info": {
+          "nacimiento": "05/04/2000",
+          "origen": "USC",
+          "altura": 1.93,
+          "peso": 92.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Collin Sexton",
+        "href": "https://www.nba.com/players/collin/sexton/1629012",
+        "info": {
+          "nacimiento": "01/04/1999",
+          "origen": "Alabama",
+          "altura": 1.85,
+          "peso": 86.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Tristan Thompson",
+        "href": "https://www.nba.com/players/tristan/thompson/202684",
+        "info": {
+          "nacimiento": "03/13/1991",
+          "origen": "Texas",
+          "altura": 2.06,
+          "peso": 115.2,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Dean Wade",
+        "href": "https://www.nba.com/players/dean/wade/1629731",
+        "info": {
+          "nacimiento": "11/20/1996",
+          "origen": "KansasState",
+          "altura": 2.06,
+          "peso": 103.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Dylan Windler",
+        "href": "https://www.nba.com/players/dylan/windler/1629685",
+        "info": {
+          "nacimiento": "09/22/1996",
+          "origen": "Belmont",
+          "altura": 1.98,
+          "peso": 88.9,
+          "debut": null
+        }
+      },
+      {
+        "title": "Ante Zizic",
+        "href": "https://www.nba.com/players/ante/zizic/1627790",
+        "info": {
+          "nacimiento": "01/04/1997",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 120.7,
+          "debut": 2017
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Dallas Mavericks",
+    "teamRef": "https://www.nba.com/teams/mavericks",
+    "players": [
+      {
+        "title": "J.J. Barea",
+        "href": "https://www.nba.com/players/j.j./barea/200826",
+        "info": {
+          "nacimiento": "06/26/1984",
+          "origen": "Northeastern",
+          "altura": 1.78,
+          "peso": 81.6,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Ryan Broekhoff",
+        "href": "https://www.nba.com/players/ryan/broekhoff/1629151",
+        "info": {
+          "nacimiento": "08/23/1990",
+          "origen": "Valparaiso",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Jalen Brunson",
+        "href": "https://www.nba.com/players/jalen/brunson/1628973",
+        "info": {
+          "nacimiento": "08/31/1996",
+          "origen": "Villanova",
+          "altura": 1.85,
+          "peso": 86.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Antonius Cleveland",
+        "href": "https://www.nba.com/players/antonius/cleveland/1628499",
+        "info": {
+          "nacimiento": "02/02/1994",
+          "origen": "S.E.Missouri",
+          "altura": 1.96,
+          "peso": 88.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Seth Curry",
+        "href": "https://www.nba.com/players/seth/curry/203552",
+        "info": {
+          "nacimiento": "08/23/1990",
+          "origen": "Duke",
+          "altura": 1.88,
+          "peso": 83.9,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Luka Doncic",
+        "href": "https://www.nba.com/players/luka/doncic/1629029",
+        "info": {
+          "nacimiento": "02/28/1999",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 104.3,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Dorian Finney-Smith",
+        "href": "https://www.nba.com/players/dorian/finney-smith/1627827",
+        "info": {
+          "nacimiento": "05/04/1993",
+          "origen": "Florida",
+          "altura": 2.01,
+          "peso": 99.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Tim Hardaway Jr.",
+        "href": "https://www.nba.com/players/tim/hardaway_jr./203501",
+        "info": {
+          "nacimiento": "03/16/1992",
+          "origen": "Michigan",
+          "altura": 1.96,
+          "peso": 93,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Justin Jackson",
+        "href": "https://www.nba.com/players/justin/jackson/1628382",
+        "info": {
+          "nacimiento": "03/28/1995",
+          "origen": "NorthCarolina",
+          "altura": 2.01,
+          "peso": 99.8,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Maxi Kleber",
+        "href": "https://www.nba.com/players/maxi/kleber/1628467",
+        "info": {
+          "nacimiento": "01/29/1992",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Courtney Lee",
+        "href": "https://www.nba.com/players/courtney/lee/201584",
+        "info": {
+          "nacimiento": "10/03/1985",
+          "origen": "WesternKentucky",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Boban Marjanovic",
+        "href": "https://www.nba.com/players/boban/marjanovic/1626246",
+        "info": {
+          "nacimiento": "08/15/1988",
+          "origen": null,
+          "altura": 2.24,
+          "peso": 131.5,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Kristaps Porzingis",
+        "href": "https://www.nba.com/players/kristaps/porzingis/204001",
+        "info": {
+          "nacimiento": "08/02/1995",
+          "origen": null,
+          "altura": 2.21,
+          "peso": 108.9,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Dwight Powell",
+        "href": "https://www.nba.com/players/dwight/powell/203939",
+        "info": {
+          "nacimiento": "07/20/1991",
+          "origen": "Stanford",
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Josh Reaves",
+        "href": "https://www.nba.com/players/josh/reaves/1629729",
+        "info": {
+          "nacimiento": "06/04/1997",
+          "origen": "PennState",
+          "altura": 1.93,
+          "peso": 97.1,
+          "debut": null
+        }
+      },
+      {
+        "title": "Isaiah Roby",
+        "href": "https://www.nba.com/players/isaiah/roby/1629676",
+        "info": {
+          "nacimiento": "02/03/1998",
+          "origen": "UniversityofNebraska-Lincoln",
+          "altura": 2.03,
+          "peso": 104.3,
+          "debut": null
+        }
+      },
+      {
+        "title": "Delon Wright",
+        "href": "https://www.nba.com/players/delon/wright/1626153",
+        "info": {
+          "nacimiento": "04/26/1992",
+          "origen": "Utah",
+          "altura": 1.96,
+          "peso": 83.9,
+          "debut": 2015
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Denver Nuggets",
+    "teamRef": "https://www.nba.com/teams/nuggets",
+    "players": [
+      {
+        "title": "Will Barton",
+        "href": "https://www.nba.com/players/will/barton/203115",
+        "info": {
+          "nacimiento": "01/06/1991",
+          "origen": "Memphis",
+          "altura": 1.96,
+          "peso": 82.1,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Malik Beasley",
+        "href": "https://www.nba.com/players/malik/beasley/1627736",
+        "info": {
+          "nacimiento": "11/26/1996",
+          "origen": "FloridaState",
+          "altura": 1.93,
+          "peso": 84.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Bol Bol",
+        "href": "https://www.nba.com/players/bol/bol/1629626",
+        "info": {
+          "nacimiento": "11/16/1999",
+          "origen": "Oregon",
+          "altura": 2.18,
+          "peso": 99.8,
+          "debut": null
+        }
+      },
+      {
+        "title": "Vlatko Cancar",
+        "href": "https://www.nba.com/players/vlatko/cancar/1628427",
+        "info": {
+          "nacimiento": "04/10/1997",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 107,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Torrey Craig",
+        "href": "https://www.nba.com/players/torrey/craig/1628470",
+        "info": {
+          "nacimiento": "12/19/1990",
+          "origen": "SouthCarolinaUpstate",
+          "altura": 2.01,
+          "peso": 100.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "PJ Dozier",
+        "href": "https://www.nba.com/players/pj/dozier/1628408",
+        "info": {
+          "nacimiento": "10/25/1996",
+          "origen": "SouthCarolina",
+          "altura": 1.98,
+          "peso": 93,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Jerami Grant",
+        "href": "https://www.nba.com/players/jerami/grant/203924",
+        "info": {
+          "nacimiento": "03/12/1994",
+          "origen": "Syracuse",
+          "altura": 2.03,
+          "peso": 95.3,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Gary Harris",
+        "href": "https://www.nba.com/players/gary/harris/203914",
+        "info": {
+          "nacimiento": "09/14/1994",
+          "origen": "MichiganState",
+          "altura": 1.93,
+          "peso": 95.3,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Juancho Hernangomez",
+        "href": "https://www.nba.com/players/juancho/hernangomez/1627823",
+        "info": {
+          "nacimiento": "09/28/1995",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 97.1,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Nikola Jokic",
+        "href": "https://www.nba.com/players/nikola/jokic/203999",
+        "info": {
+          "nacimiento": "02/19/1995",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 128.8,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Paul Millsap",
+        "href": "https://www.nba.com/players/paul/millsap/200794",
+        "info": {
+          "nacimiento": "02/10/1985",
+          "origen": "LouisianaTech",
+          "altura": 2.01,
+          "peso": 116.6,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Monte Morris",
+        "href": "https://www.nba.com/players/monte/morris/1628420",
+        "info": {
+          "nacimiento": "06/27/1995",
+          "origen": "IowaState",
+          "altura": 1.88,
+          "peso": 83,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Jamal Murray",
+        "href": "https://www.nba.com/players/jamal/murray/1627750",
+        "info": {
+          "nacimiento": "02/23/1997",
+          "origen": "Kentucky",
+          "altura": 1.93,
+          "peso": 97.5,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Mason Plumlee",
+        "href": "https://www.nba.com/players/mason/plumlee/203486",
+        "info": {
+          "nacimiento": "03/05/1990",
+          "origen": "Duke",
+          "altura": 2.11,
+          "peso": 115.2,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Michael Porter Jr.",
+        "href": "https://www.nba.com/players/michael/porter_jr./1629008",
+        "info": {
+          "nacimiento": "06/29/1998",
+          "origen": "Missouri",
+          "altura": 2.08,
+          "peso": 98.9,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jarred Vanderbilt",
+        "href": "https://www.nba.com/players/jarred/vanderbilt/1629020",
+        "info": {
+          "nacimiento": "04/03/1999",
+          "origen": "Kentucky",
+          "altura": 2.06,
+          "peso": 97.1,
+          "debut": 2018
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Detroit Pistons",
+    "teamRef": "https://www.nba.com/teams/pistons",
+    "players": [
+      {
+        "title": "Jordan Bone",
+        "href": "https://www.nba.com/players/jordan/bone/1629648",
+        "info": {
+          "nacimiento": "11/05/1997",
+          "origen": "Tennessee",
+          "altura": 1.9,
+          "peso": 81.6,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Bruce Brown",
+        "href": "https://www.nba.com/players/bruce/brown/1628971",
+        "info": {
+          "nacimiento": "08/15/1996",
+          "origen": "Miami",
+          "altura": 1.93,
+          "peso": 91.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Sekou Doumbouya",
+        "href": "https://www.nba.com/players/sekou/doumbouya/1629635",
+        "info": {
+          "nacimiento": "12/23/2000",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 104.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Andre Drummond",
+        "href": "https://www.nba.com/players/andre/drummond/203083",
+        "info": {
+          "nacimiento": "08/10/1993",
+          "origen": "Connecticut",
+          "altura": 2.08,
+          "peso": 126.6,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Tim Frazier",
+        "href": "https://www.nba.com/players/tim/frazier/204025",
+        "info": {
+          "nacimiento": "11/01/1990",
+          "origen": "PennState",
+          "altura": 1.83,
+          "peso": 77.1,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Langston Galloway",
+        "href": "https://www.nba.com/players/langston/galloway/204038",
+        "info": {
+          "nacimiento": "12/09/1991",
+          "origen": "—",
+          "altura": 1.85,
+          "peso": 90.7,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Blake Griffin",
+        "href": "https://www.nba.com/players/blake/griffin/201933",
+        "info": {
+          "nacimiento": "03/16/1989",
+          "origen": "Oklahoma",
+          "altura": 2.06,
+          "peso": 113.4,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Reggie Jackson",
+        "href": "https://www.nba.com/players/reggie/jackson/202704",
+        "info": {
+          "nacimiento": "04/16/1990",
+          "origen": "BostonCollege",
+          "altura": 1.9,
+          "peso": 94.3,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Luke Kennard",
+        "href": "https://www.nba.com/players/luke/kennard/1628379",
+        "info": {
+          "nacimiento": "06/24/1996",
+          "origen": "Duke",
+          "altura": 1.96,
+          "peso": 93.4,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Louis King",
+        "href": "https://www.nba.com/players/louis/king/1629663",
+        "info": {
+          "nacimiento": "04/06/1999",
+          "origen": "Oregon",
+          "altura": 2.01,
+          "peso": 93,
+          "debut": null
+        }
+      },
+      {
+        "title": "Thon Maker",
+        "href": "https://www.nba.com/players/thon/maker/1627748",
+        "info": {
+          "nacimiento": "02/25/1997",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 100.2,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Markieff Morris",
+        "href": "https://www.nba.com/players/markieff/morris/202693",
+        "info": {
+          "nacimiento": "09/02/1989",
+          "origen": "Kansas",
+          "altura": 2.03,
+          "peso": 111.1,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Svi Mykhailiuk",
+        "href": "https://www.nba.com/players/svi/mykhailiuk/1629004",
+        "info": {
+          "nacimiento": "06/10/1997",
+          "origen": "Kansas",
+          "altura": 2.01,
+          "peso": 93,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Derrick Rose",
+        "href": "https://www.nba.com/players/derrick/rose/201565",
+        "info": {
+          "nacimiento": "10/04/1988",
+          "origen": "Memphis",
+          "altura": 1.88,
+          "peso": 90.7,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Tony Snell",
+        "href": "https://www.nba.com/players/tony/snell/203503",
+        "info": {
+          "nacimiento": "11/10/1991",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 96.6,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Khyri Thomas",
+        "href": "https://www.nba.com/players/khyri/thomas/1629017",
+        "info": {
+          "nacimiento": "05/08/1996",
+          "origen": "Creighton",
+          "altura": 1.9,
+          "peso": 95.3,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Christian Wood",
+        "href": "https://www.nba.com/players/christian/wood/1626174",
+        "info": {
+          "nacimiento": "09/27/1995",
+          "origen": "UNLV",
+          "altura": 2.08,
+          "peso": 97.1,
+          "debut": 2015
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Golden State Warriors",
+    "teamRef": "https://www.nba.com/teams/warriors",
+    "players": [
+      {
+        "title": "Ky Bowman",
+        "href": "https://www.nba.com/players/ky/bowman/1629065",
+        "info": {
+          "nacimiento": "06/16/1997",
+          "origen": "BostonCollege",
+          "altura": 1.85,
+          "peso": 84.8,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Alec Burks",
+        "href": "https://www.nba.com/players/alec/burks/202692",
+        "info": {
+          "nacimiento": "07/20/1991",
+          "origen": "Colorado",
+          "altura": 1.98,
+          "peso": 97.1,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Willie Cauley-Stein",
+        "href": "https://www.nba.com/players/willie/cauley-stein/1626161",
+        "info": {
+          "nacimiento": "08/18/1993",
+          "origen": "Kentucky",
+          "altura": 2.13,
+          "peso": 108.9,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Marquese Chriss",
+        "href": "https://www.nba.com/players/marquese/chriss/1627737",
+        "info": {
+          "nacimiento": "07/02/1997",
+          "origen": "Washington",
+          "altura": 2.06,
+          "peso": 108.9,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Stephen Curry",
+        "href": "https://www.nba.com/players/stephen/curry/201939",
+        "info": {
+          "nacimiento": "03/14/1988",
+          "origen": "Davidson",
+          "altura": 1.9,
+          "peso": 83.9,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Jacob Evans",
+        "href": "https://www.nba.com/players/jacob/evans/1628980",
+        "info": {
+          "nacimiento": "06/18/1997",
+          "origen": "Cincinnati",
+          "altura": 1.93,
+          "peso": 95.3,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Draymond Green",
+        "href": "https://www.nba.com/players/draymond/green/203110",
+        "info": {
+          "nacimiento": "03/04/1990",
+          "origen": "MichiganState",
+          "altura": 1.98,
+          "peso": 104.3,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Damion Lee",
+        "href": "https://www.nba.com/players/damion/lee/1627814",
+        "info": {
+          "nacimiento": "10/21/1992",
+          "origen": "Louisville",
+          "altura": 1.96,
+          "peso": 95.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Kevon Looney",
+        "href": "https://www.nba.com/players/kevon/looney/1626172",
+        "info": {
+          "nacimiento": "02/06/1996",
+          "origen": "UCLA",
+          "altura": 2.06,
+          "peso": 100.7,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Eric Paschall",
+        "href": "https://www.nba.com/players/eric/paschall/1629672",
+        "info": {
+          "nacimiento": "11/04/1996",
+          "origen": "Villanova",
+          "altura": 1.98,
+          "peso": 115.7,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jordan Poole",
+        "href": "https://www.nba.com/players/jordan/poole/1629673",
+        "info": {
+          "nacimiento": "06/19/1999",
+          "origen": "Michigan",
+          "altura": 1.93,
+          "peso": 88,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Glenn Robinson III",
+        "href": "https://www.nba.com/players/glenn/robinson_iii/203922",
+        "info": {
+          "nacimiento": "01/08/1994",
+          "origen": "Michigan",
+          "altura": 1.98,
+          "peso": 100.7,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "D'Angelo Russell",
+        "href": "https://www.nba.com/players/d'angelo/russell/1626156",
+        "info": {
+          "nacimiento": "02/23/1996",
+          "origen": "OhioState",
+          "altura": 1.93,
+          "peso": 87.5,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Alen Smailagic",
+        "href": "https://www.nba.com/players/alen/smailagic/1629346",
+        "info": {
+          "nacimiento": "08/18/2000",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 97.5,
+          "debut": null
+        }
+      },
+      {
+        "title": "Omari Spellman",
+        "href": "https://www.nba.com/players/omari/spellman/1629016",
+        "info": {
+          "nacimiento": "07/21/1997",
+          "origen": "Villanova",
+          "altura": 2.03,
+          "peso": 111.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Klay Thompson",
+        "href": "https://www.nba.com/players/klay/thompson/202691",
+        "info": {
+          "nacimiento": "02/08/1990",
+          "origen": "WashingtonState",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2011
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Houston Rockets",
+    "teamRef": "https://www.nba.com/teams/rockets",
+    "players": [
+      {
+        "title": "Clint Capela",
+        "href": "https://www.nba.com/players/clint/capela/203991",
+        "info": {
+          "nacimiento": "05/18/1994",
+          "origen": "Switzerland",
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Tyson Chandler",
+        "href": "https://www.nba.com/players/tyson/chandler/2199",
+        "info": {
+          "nacimiento": "10/02/1982",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 106.6,
+          "debut": 2001
+        }
+      },
+      {
+        "title": "Gary Clark",
+        "href": "https://www.nba.com/players/gary/clark/1629109",
+        "info": {
+          "nacimiento": "11/16/1994",
+          "origen": "Cincinnati",
+          "altura": 1.98,
+          "peso": 102.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Chris Clemons",
+        "href": "https://www.nba.com/players/chris/clemons/1629598",
+        "info": {
+          "nacimiento": "07/23/1997",
+          "origen": "CampbellUniversity",
+          "altura": 1.75,
+          "peso": 81.6,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Michael Frazier",
+        "href": "https://www.nba.com/players/michael/frazier/1626187",
+        "info": {
+          "nacimiento": "03/08/1994",
+          "origen": "Florida",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": null
+        }
+      },
+      {
+        "title": "Eric Gordon",
+        "href": "https://www.nba.com/players/eric/gordon/201569",
+        "info": {
+          "nacimiento": "12/25/1988",
+          "origen": "Indiana",
+          "altura": 1.9,
+          "peso": 97.5,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Gerald Green",
+        "href": "https://www.nba.com/players/gerald/green/101123",
+        "info": {
+          "nacimiento": "01/26/1986",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 93,
+          "debut": 2005
+        }
+      },
+      {
+        "title": "James Harden",
+        "href": "https://www.nba.com/players/james/harden/201935",
+        "info": {
+          "nacimiento": "08/26/1989",
+          "origen": "ArizonaState",
+          "altura": 1.96,
+          "peso": 99.8,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Isaiah Hartenstein",
+        "href": "https://www.nba.com/players/isaiah/hartenstein/1628392",
+        "info": {
+          "nacimiento": "05/05/1998",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 113.4,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Danuel House Jr.",
+        "href": "https://www.nba.com/players/danuel/house_jr./1627863",
+        "info": {
+          "nacimiento": "06/07/1993",
+          "origen": "TexasA&M",
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Ben McLemore",
+        "href": "https://www.nba.com/players/ben/mclemore/203463",
+        "info": {
+          "nacimiento": "02/11/1993",
+          "origen": "Kansas",
+          "altura": 1.9,
+          "peso": 88.5,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Nene ",
+        "href": "https://www.nba.com/players/nene/2403",
+        "info": {
+          "nacimiento": "09/13/1982",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2002
+        }
+      },
+      {
+        "title": "Austin Rivers",
+        "href": "https://www.nba.com/players/austin/rivers/203085",
+        "info": {
+          "nacimiento": "08/01/1992",
+          "origen": "Duke",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Thabo Sefolosha",
+        "href": "https://www.nba.com/players/thabo/sefolosha/200757",
+        "info": {
+          "nacimiento": "05/02/1984",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "P.J. Tucker",
+        "href": "https://www.nba.com/players/p.j./tucker/200782",
+        "info": {
+          "nacimiento": "05/05/1985",
+          "origen": "Texas",
+          "altura": 1.96,
+          "peso": 111.1,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Russell Westbrook",
+        "href": "https://www.nba.com/players/russell/westbrook/201566",
+        "info": {
+          "nacimiento": "11/12/1988",
+          "origen": "UCLA",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2008
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Indiana Pacers",
+    "teamRef": "https://www.nba.com/teams/pacers",
+    "players": [
+      {
+        "title": "Goga Bitadze",
+        "href": "https://www.nba.com/players/goga/bitadze/1629048",
+        "info": {
+          "nacimiento": "07/20/1999",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Brian Bowen II",
+        "href": "https://www.nba.com/players/brian/bowen_ii/1628968",
+        "info": {
+          "nacimiento": "10/02/1998",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 86.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Malcolm Brogdon",
+        "href": "https://www.nba.com/players/malcolm/brogdon/1627763",
+        "info": {
+          "nacimiento": "12/11/1992",
+          "origen": "Virginia",
+          "altura": 1.96,
+          "peso": 103.9,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Aaron Holiday",
+        "href": "https://www.nba.com/players/aaron/holiday/1628988",
+        "info": {
+          "nacimiento": "09/30/1996",
+          "origen": "UCLA",
+          "altura": 1.83,
+          "peso": 83.9,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Justin Holiday",
+        "href": "https://www.nba.com/players/justin/holiday/203200",
+        "info": {
+          "nacimiento": "04/05/1989",
+          "origen": "Washington",
+          "altura": 1.98,
+          "peso": 81.6,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Alize Johnson",
+        "href": "https://www.nba.com/players/alize/johnson/1628993",
+        "info": {
+          "nacimiento": "04/22/1996",
+          "origen": "MissouriState",
+          "altura": 2.01,
+          "peso": 96.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Jeremy Lamb",
+        "href": "https://www.nba.com/players/jeremy/lamb/203087",
+        "info": {
+          "nacimiento": "05/30/1992",
+          "origen": "Connecticut",
+          "altura": 1.96,
+          "peso": 81.6,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "TJ Leaf",
+        "href": "https://www.nba.com/players/tj/leaf/1628388",
+        "info": {
+          "nacimiento": "04/30/1997",
+          "origen": "UCLA",
+          "altura": 2.08,
+          "peso": 100.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "T.J. McConnell",
+        "href": "https://www.nba.com/players/t.j./mcconnell/204456",
+        "info": {
+          "nacimiento": "03/25/1992",
+          "origen": "Arizona",
+          "altura": 1.85,
+          "peso": 86.2,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Doug McDermott",
+        "href": "https://www.nba.com/players/doug/mcdermott/203926",
+        "info": {
+          "nacimiento": "01/03/1992",
+          "origen": "Creighton",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Naz Mitrou-Long",
+        "href": "https://www.nba.com/players/naz/mitrou-long/1628513",
+        "info": {
+          "nacimiento": "08/03/1993",
+          "origen": "IowaState",
+          "altura": 1.9,
+          "peso": 98.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Victor Oladipo",
+        "href": "https://www.nba.com/players/victor/oladipo/203506",
+        "info": {
+          "nacimiento": "05/04/1992",
+          "origen": "Indiana",
+          "altura": 1.93,
+          "peso": 96.6,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Domantas Sabonis",
+        "href": "https://www.nba.com/players/domantas/sabonis/1627734",
+        "info": {
+          "nacimiento": "05/03/1996",
+          "origen": "Gonzaga",
+          "altura": 2.11,
+          "peso": 108.9,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "JaKarr Sampson",
+        "href": "https://www.nba.com/players/jakarr/sampson/203960",
+        "info": {
+          "nacimiento": "03/20/1993",
+          "origen": "St.John's,N.Y.",
+          "altura": 2.01,
+          "peso": 97.1,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Edmond Sumner",
+        "href": "https://www.nba.com/players/edmond/sumner/1628410",
+        "info": {
+          "nacimiento": "12/31/1995",
+          "origen": "Xavier",
+          "altura": 1.93,
+          "peso": 88.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Myles Turner",
+        "href": "https://www.nba.com/players/myles/turner/1626167",
+        "info": {
+          "nacimiento": "03/24/1996",
+          "origen": "Texas",
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "T.J. Warren",
+        "href": "https://www.nba.com/players/t.j./warren/203933",
+        "info": {
+          "nacimiento": "09/05/1993",
+          "origen": "NorthCarolinaState",
+          "altura": 2.03,
+          "peso": 99.8,
+          "debut": 2014
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "LA Clippers",
+    "teamRef": "https://www.nba.com/teams/clippers",
+    "players": [
+      {
+        "title": "Patrick Beverley",
+        "href": "https://www.nba.com/players/patrick/beverley/201976",
+        "info": {
+          "nacimiento": "07/12/1988",
+          "origen": "Arkansas",
+          "altura": 1.85,
+          "peso": 81.6,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Amir Coffey",
+        "href": "https://www.nba.com/players/amir/coffey/1629599",
+        "info": {
+          "nacimiento": "06/17/1997",
+          "origen": "Minnesota",
+          "altura": 2.01,
+          "peso": 95.3,
+          "debut": null
+        }
+      },
+      {
+        "title": "Paul George",
+        "href": "https://www.nba.com/players/paul/george/202331",
+        "info": {
+          "nacimiento": "05/02/1990",
+          "origen": "FresnoState",
+          "altura": 2.03,
+          "peso": 99.8,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "JaMychal Green",
+        "href": "https://www.nba.com/players/jamychal/green/203210",
+        "info": {
+          "nacimiento": "06/21/1990",
+          "origen": "Alabama",
+          "altura": 2.03,
+          "peso": 103,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Maurice Harkless",
+        "href": "https://www.nba.com/players/maurice/harkless/203090",
+        "info": {
+          "nacimiento": "05/11/1993",
+          "origen": "St.John's,N.Y.",
+          "altura": 2.01,
+          "peso": 99.8,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Montrezl Harrell",
+        "href": "https://www.nba.com/players/montrezl/harrell/1626149",
+        "info": {
+          "nacimiento": "01/26/1994",
+          "origen": "Louisville",
+          "altura": 2.01,
+          "peso": 108.9,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Mfiondu Kabengele",
+        "href": "https://www.nba.com/players/mfiondu/kabengele/1629662",
+        "info": {
+          "nacimiento": "08/14/1997",
+          "origen": "FloridaState",
+          "altura": 2.06,
+          "peso": 113.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Kawhi Leonard",
+        "href": "https://www.nba.com/players/kawhi/leonard/202695",
+        "info": {
+          "nacimiento": "06/29/1991",
+          "origen": "SanDiegoState",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Terance Mann",
+        "href": "https://www.nba.com/players/terance/mann/1629611",
+        "info": {
+          "nacimiento": "10/18/1996",
+          "origen": "FloridaState",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Rodney McGruder",
+        "href": "https://www.nba.com/players/rodney/mcgruder/203585",
+        "info": {
+          "nacimiento": "07/29/1991",
+          "origen": "KansasState",
+          "altura": 1.93,
+          "peso": 93,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Johnathan Motley",
+        "href": "https://www.nba.com/players/johnathan/motley/1628405",
+        "info": {
+          "nacimiento": "05/04/1995",
+          "origen": "Baylor",
+          "altura": 2.03,
+          "peso": 104.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Patrick Patterson",
+        "href": "https://www.nba.com/players/patrick/patterson/202335",
+        "info": {
+          "nacimiento": "03/14/1989",
+          "origen": "Kentucky",
+          "altura": 2.03,
+          "peso": 106.6,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Jerome Robinson",
+        "href": "https://www.nba.com/players/jerome/robinson/1629010",
+        "info": {
+          "nacimiento": "02/22/1997",
+          "origen": "BostonCollege",
+          "altura": 1.93,
+          "peso": 86.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Landry Shamet",
+        "href": "https://www.nba.com/players/landry/shamet/1629013",
+        "info": {
+          "nacimiento": "03/13/1997",
+          "origen": "WichitaState",
+          "altura": 1.93,
+          "peso": 86.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Derrick Walton Jr.",
+        "href": "https://www.nba.com/players/derrick/walton_jr./1628476",
+        "info": {
+          "nacimiento": "04/03/1995",
+          "origen": "Michigan",
+          "altura": 1.83,
+          "peso": 83.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Lou Williams",
+        "href": "https://www.nba.com/players/lou/williams/101150",
+        "info": {
+          "nacimiento": "10/27/1986",
+          "origen": null,
+          "altura": 1.85,
+          "peso": 79.4,
+          "debut": 2005
+        }
+      },
+      {
+        "title": "Ivica Zubac",
+        "href": "https://www.nba.com/players/ivica/zubac/1627826",
+        "info": {
+          "nacimiento": "03/18/1997",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 108.9,
+          "debut": 2016
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Los Angeles Lakers",
+    "teamRef": "https://www.nba.com/teams/lakers",
+    "players": [
+      {
+        "title": "Kostas Antetokounmpo",
+        "href": "https://www.nba.com/players/kostas/antetokounmpo/1628961",
+        "info": {
+          "nacimiento": "11/20/1997",
+          "origen": "UniversityofDayton",
+          "altura": 2.08,
+          "peso": 90.7,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Avery Bradley",
+        "href": "https://www.nba.com/players/avery/bradley/202340",
+        "info": {
+          "nacimiento": "11/26/1990",
+          "origen": "Texas",
+          "altura": 1.9,
+          "peso": 81.6,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Kentavious Caldwell-Pope",
+        "href": "https://www.nba.com/players/kentavious/caldwell-pope/203484",
+        "info": {
+          "nacimiento": "02/18/1993",
+          "origen": "Georgia",
+          "altura": 1.96,
+          "peso": 92.5,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Alex Caruso",
+        "href": "https://www.nba.com/players/alex/caruso/1627936",
+        "info": {
+          "nacimiento": "02/28/1994",
+          "origen": "TexasA&M",
+          "altura": 1.96,
+          "peso": 84.4,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Quinn Cook",
+        "href": "https://www.nba.com/players/quinn/cook/1626188",
+        "info": {
+          "nacimiento": "03/23/1993",
+          "origen": "Duke",
+          "altura": 1.85,
+          "peso": 81.6,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "DeMarcus Cousins",
+        "href": "https://www.nba.com/players/demarcus/cousins/202326",
+        "info": {
+          "nacimiento": "08/13/1990",
+          "origen": "Kentucky",
+          "altura": 2.08,
+          "peso": 122.5,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Troy Daniels",
+        "href": "https://www.nba.com/players/troy/daniels/203584",
+        "info": {
+          "nacimiento": "07/15/1991",
+          "origen": "VaCommonwealth",
+          "altura": 1.93,
+          "peso": 90.7,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Anthony Davis",
+        "href": "https://www.nba.com/players/anthony/davis/203076",
+        "info": {
+          "nacimiento": "03/11/1993",
+          "origen": "Kentucky",
+          "altura": 2.08,
+          "peso": 114.8,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Jared Dudley",
+        "href": "https://www.nba.com/players/jared/dudley/201162",
+        "info": {
+          "nacimiento": "07/10/1985",
+          "origen": "BostonCollege",
+          "altura": 1.98,
+          "peso": 107.5,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Danny Green",
+        "href": "https://www.nba.com/players/danny/green/201980",
+        "info": {
+          "nacimiento": "06/22/1987",
+          "origen": "NorthCarolina",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Talen Horton-Tucker",
+        "href": "https://www.nba.com/players/talen/horton-tucker/1629659",
+        "info": {
+          "nacimiento": "11/25/2000",
+          "origen": "IowaState",
+          "altura": 1.93,
+          "peso": 106.1,
+          "debut": null
+        }
+      },
+      {
+        "title": "Dwight Howard",
+        "href": "https://www.nba.com/players/dwight/howard/2730",
+        "info": {
+          "nacimiento": "12/08/1985",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 120.2,
+          "debut": 2004
+        }
+      },
+      {
+        "title": "LeBron James",
+        "href": "https://www.nba.com/players/lebron/james/2544",
+        "info": {
+          "nacimiento": "12/30/1984",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 113.4,
+          "debut": 2003
+        }
+      },
+      {
+        "title": "Kyle Kuzma",
+        "href": "https://www.nba.com/players/kyle/kuzma/1628398",
+        "info": {
+          "nacimiento": "07/24/1995",
+          "origen": "Utah",
+          "altura": 2.03,
+          "peso": 100.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "JaVale McGee",
+        "href": "https://www.nba.com/players/javale/mcgee/201580",
+        "info": {
+          "nacimiento": "01/19/1988",
+          "origen": "Nevada-Reno",
+          "altura": 2.13,
+          "peso": 122.5,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Zach Norvell Jr.",
+        "href": "https://www.nba.com/players/zach/norvell_jr./1629668",
+        "info": {
+          "nacimiento": "12/09/1997",
+          "origen": "Gonzaga",
+          "altura": 1.96,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Rajon Rondo",
+        "href": "https://www.nba.com/players/rajon/rondo/200765",
+        "info": {
+          "nacimiento": "02/22/1986",
+          "origen": "Kentucky",
+          "altura": 1.85,
+          "peso": 81.6,
+          "debut": 2006
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Memphis Grizzlies",
+    "teamRef": "https://www.nba.com/teams/grizzlies",
+    "players": [
+      {
+        "title": "Grayson Allen",
+        "href": "https://www.nba.com/players/grayson/allen/1628960",
+        "info": {
+          "nacimiento": "10/08/1995",
+          "origen": "Duke",
+          "altura": 1.93,
+          "peso": 89.8,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Kyle Anderson",
+        "href": "https://www.nba.com/players/kyle/anderson/203937",
+        "info": {
+          "nacimiento": "09/20/1993",
+          "origen": "UCLA",
+          "altura": 2.06,
+          "peso": 104.3,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Dillon Brooks",
+        "href": "https://www.nba.com/players/dillon/brooks/1628415",
+        "info": {
+          "nacimiento": "01/22/1996",
+          "origen": "Oregon",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Bruno Caboclo",
+        "href": "https://www.nba.com/players/bruno/caboclo/203998",
+        "info": {
+          "nacimiento": "09/21/1995",
+          "origen": "Brazil",
+          "altura": 2.06,
+          "peso": 98.9,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Brandon Clarke",
+        "href": "https://www.nba.com/players/brandon/clarke/1629634",
+        "info": {
+          "nacimiento": "09/19/1996",
+          "origen": "Gonzaga",
+          "altura": 2.03,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jae Crowder",
+        "href": "https://www.nba.com/players/jae/crowder/203109",
+        "info": {
+          "nacimiento": "07/06/1990",
+          "origen": "Marquette",
+          "altura": 1.98,
+          "peso": 106.6,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Marko Guduric",
+        "href": "https://www.nba.com/players/marko/guduric/1629741",
+        "info": {
+          "nacimiento": "03/08/1995",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 91.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Solomon Hill",
+        "href": "https://www.nba.com/players/solomon/hill/203524",
+        "info": {
+          "nacimiento": "03/18/1991",
+          "origen": "Arizona",
+          "altura": 1.98,
+          "peso": 102.5,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Andre Iguodala",
+        "href": "https://www.nba.com/players/andre/iguodala/2738",
+        "info": {
+          "nacimiento": "01/28/1984",
+          "origen": "Arizona",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2004
+        }
+      },
+      {
+        "title": "Josh Jackson",
+        "href": "https://www.nba.com/players/josh/jackson/1628367",
+        "info": {
+          "nacimiento": "02/10/1997",
+          "origen": "Kansas",
+          "altura": 2.03,
+          "peso": 93.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Jaren Jackson Jr.",
+        "href": "https://www.nba.com/players/jaren/jackson_jr./1628991",
+        "info": {
+          "nacimiento": "09/15/1999",
+          "origen": "MichiganState",
+          "altura": 2.11,
+          "peso": 109.8,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Tyus Jones",
+        "href": "https://www.nba.com/players/tyus/jones/1626145",
+        "info": {
+          "nacimiento": "05/10/1996",
+          "origen": "Duke",
+          "altura": 1.83,
+          "peso": 88.9,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "John Konchar",
+        "href": "https://www.nba.com/players/john/konchar/1629723",
+        "info": {
+          "nacimiento": "03/22/1996",
+          "origen": "—",
+          "altura": 1.96,
+          "peso": 95.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "De'Anthony Melton",
+        "href": "https://www.nba.com/players/de'anthony/melton/1629001",
+        "info": {
+          "nacimiento": "05/28/1998",
+          "origen": "USC",
+          "altura": 1.88,
+          "peso": 90.7,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Ja Morant",
+        "href": "https://www.nba.com/players/ja/morant/1629630",
+        "info": {
+          "nacimiento": "08/10/1999",
+          "origen": "MurrayState",
+          "altura": 1.9,
+          "peso": 78.9,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jonas Valanciunas",
+        "href": "https://www.nba.com/players/jonas/valanciunas/202685",
+        "info": {
+          "nacimiento": "05/06/1992",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 120.2,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Yuta Watanabe",
+        "href": "https://www.nba.com/players/yuta/watanabe/1629139",
+        "info": {
+          "nacimiento": "10/13/1994",
+          "origen": "GeorgeWashington",
+          "altura": 2.03,
+          "peso": 97.5,
+          "debut": 2018
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Miami Heat",
+    "teamRef": "https://www.nba.com/teams/heat",
+    "players": [
+      {
+        "title": "Bam Adebayo",
+        "href": "https://www.nba.com/players/bam/adebayo/1628389",
+        "info": {
+          "nacimiento": "07/18/1997",
+          "origen": "Kentucky",
+          "altura": 2.06,
+          "peso": 115.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Jimmy Butler",
+        "href": "https://www.nba.com/players/jimmy/butler/202710",
+        "info": {
+          "nacimiento": "09/14/1989",
+          "origen": "Marquette",
+          "altura": 2.01,
+          "peso": 104.3,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Goran Dragic",
+        "href": "https://www.nba.com/players/goran/dragic/201609",
+        "info": {
+          "nacimiento": "05/06/1986",
+          "origen": null,
+          "altura": 1.9,
+          "peso": 86.2,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Udonis Haslem",
+        "href": "https://www.nba.com/players/udonis/haslem/2617",
+        "info": {
+          "nacimiento": "06/09/1980",
+          "origen": "Florida",
+          "altura": 2.03,
+          "peso": 106.6,
+          "debut": 2003
+        }
+      },
+      {
+        "title": "Tyler Herro",
+        "href": "https://www.nba.com/players/tyler/herro/1629639",
+        "info": {
+          "nacimiento": "01/20/2000",
+          "origen": "Kentucky",
+          "altura": 1.96,
+          "peso": 88.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "James Johnson",
+        "href": "https://www.nba.com/players/james/johnson/201949",
+        "info": {
+          "nacimiento": "02/20/1987",
+          "origen": "WakeForest",
+          "altura": 2.01,
+          "peso": 108.9,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Derrick Jones Jr.",
+        "href": "https://www.nba.com/players/derrick/jones_jr./1627884",
+        "info": {
+          "nacimiento": "02/15/1997",
+          "origen": "UNLV",
+          "altura": 1.98,
+          "peso": 95.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Meyers Leonard",
+        "href": "https://www.nba.com/players/meyers/leonard/203086",
+        "info": {
+          "nacimiento": "02/27/1992",
+          "origen": "Illinois",
+          "altura": 2.13,
+          "peso": 117.9,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Daryl Macon",
+        "href": "https://www.nba.com/players/daryl/macon/1629133",
+        "info": {
+          "nacimiento": "11/29/1995",
+          "origen": "Arkansas",
+          "altura": 1.88,
+          "peso": 83.9,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Kendrick Nunn",
+        "href": "https://www.nba.com/players/kendrick/nunn/1629134",
+        "info": {
+          "nacimiento": "08/03/1995",
+          "origen": "Oakland",
+          "altura": 1.88,
+          "peso": 86.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "KZ Okpala",
+        "href": "https://www.nba.com/players/kz/okpala/1629644",
+        "info": {
+          "nacimiento": "04/28/1999",
+          "origen": "Stanford",
+          "altura": 2.03,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Kelly Olynyk",
+        "href": "https://www.nba.com/players/kelly/olynyk/203482",
+        "info": {
+          "nacimiento": "04/19/1991",
+          "origen": "Gonzaga",
+          "altura": 2.11,
+          "peso": 108.9,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Duncan Robinson",
+        "href": "https://www.nba.com/players/duncan/robinson/1629130",
+        "info": {
+          "nacimiento": "04/22/1994",
+          "origen": "Michigan",
+          "altura": 2.01,
+          "peso": 97.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Chris Silva",
+        "href": "https://www.nba.com/players/chris/silva/1629735",
+        "info": {
+          "nacimiento": "09/19/1996",
+          "origen": "SouthCarolina",
+          "altura": 2.03,
+          "peso": 106.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Dion Waiters",
+        "href": "https://www.nba.com/players/dion/waiters/203079",
+        "info": {
+          "nacimiento": "12/10/1991",
+          "origen": "Syracuse",
+          "altura": 1.9,
+          "peso": 95.3,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Justise Winslow",
+        "href": "https://www.nba.com/players/justise/winslow/1626159",
+        "info": {
+          "nacimiento": "03/26/1996",
+          "origen": "Duke",
+          "altura": 1.98,
+          "peso": 100.7,
+          "debut": 2015
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Milwaukee Bucks",
+    "teamRef": "https://www.nba.com/teams/bucks",
+    "players": [
+      {
+        "title": "Giannis Antetokounmpo",
+        "href": "https://www.nba.com/players/giannis/antetokounmpo/203507",
+        "info": {
+          "nacimiento": "12/06/1994",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 109.8,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Thanasis Antetokounmpo",
+        "href": "https://www.nba.com/players/thanasis/antetokounmpo/203648",
+        "info": {
+          "nacimiento": "07/18/1992",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 99.3,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Dragan Bender",
+        "href": "https://www.nba.com/players/dragan/bender/1627733",
+        "info": {
+          "nacimiento": "11/17/1997",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 112.9,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Eric Bledsoe",
+        "href": "https://www.nba.com/players/eric/bledsoe/202339",
+        "info": {
+          "nacimiento": "12/09/1989",
+          "origen": "Kentucky",
+          "altura": 1.85,
+          "peso": 97.1,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Sterling Brown",
+        "href": "https://www.nba.com/players/sterling/brown/1628425",
+        "info": {
+          "nacimiento": "02/10/1995",
+          "origen": "SouthernMethodist",
+          "altura": 1.96,
+          "peso": 99.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Pat Connaughton",
+        "href": "https://www.nba.com/players/pat/connaughton/1626192",
+        "info": {
+          "nacimiento": "01/06/1993",
+          "origen": "NotreDame",
+          "altura": 1.96,
+          "peso": 94.8,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Donte DiVincenzo",
+        "href": "https://www.nba.com/players/donte/divincenzo/1628978",
+        "info": {
+          "nacimiento": "01/31/1997",
+          "origen": "Villanova",
+          "altura": 1.93,
+          "peso": 92.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "George Hill",
+        "href": "https://www.nba.com/players/george/hill/201588",
+        "info": {
+          "nacimiento": "05/04/1986",
+          "origen": "—",
+          "altura": 1.9,
+          "peso": 85.3,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Ersan Ilyasova",
+        "href": "https://www.nba.com/players/ersan/ilyasova/101141",
+        "info": {
+          "nacimiento": "05/15/1987",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 106.6,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Kyle Korver",
+        "href": "https://www.nba.com/players/kyle/korver/2594",
+        "info": {
+          "nacimiento": "03/17/1981",
+          "origen": "Creighton",
+          "altura": 2.01,
+          "peso": 96.2,
+          "debut": 2003
+        }
+      },
+      {
+        "title": "Brook Lopez",
+        "href": "https://www.nba.com/players/brook/lopez/201572",
+        "info": {
+          "nacimiento": "04/01/1988",
+          "origen": "Stanford",
+          "altura": 2.13,
+          "peso": 127.9,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Robin Lopez",
+        "href": "https://www.nba.com/players/robin/lopez/201577",
+        "info": {
+          "nacimiento": "04/01/1988",
+          "origen": "Stanford",
+          "altura": 2.13,
+          "peso": 127.5,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Frank Mason",
+        "href": "https://www.nba.com/players/frank/mason/1628412",
+        "info": {
+          "nacimiento": "04/03/1994",
+          "origen": "Kansas",
+          "altura": 1.8,
+          "peso": 86.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Wesley Matthews",
+        "href": "https://www.nba.com/players/wesley/matthews/202083",
+        "info": {
+          "nacimiento": "10/14/1986",
+          "origen": "Marquette",
+          "altura": 1.93,
+          "peso": 99.8,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Khris Middleton",
+        "href": "https://www.nba.com/players/khris/middleton/203114",
+        "info": {
+          "nacimiento": "08/12/1991",
+          "origen": "TexasA&M",
+          "altura": 2.01,
+          "peso": 100.7,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Cameron Reynolds",
+        "href": "https://www.nba.com/players/cameron/reynolds/1629244",
+        "info": {
+          "nacimiento": "02/07/1995",
+          "origen": "Tulane",
+          "altura": 2.01,
+          "peso": 102.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "D.J. Wilson",
+        "href": "https://www.nba.com/players/d.j./wilson/1628391",
+        "info": {
+          "nacimiento": "02/19/1996",
+          "origen": "Michigan",
+          "altura": 2.08,
+          "peso": 104.8,
+          "debut": 2017
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Minnesota Timberwolves",
+    "teamRef": "https://www.nba.com/teams/timberwolves",
+    "players": [
+      {
+        "title": "Keita Bates-Diop",
+        "href": "https://www.nba.com/players/keita/bates-diop/1628966",
+        "info": {
+          "nacimiento": "01/23/1996",
+          "origen": "OhioState",
+          "altura": 2.03,
+          "peso": 103.9,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Jordan Bell",
+        "href": "https://www.nba.com/players/jordan/bell/1628395",
+        "info": {
+          "nacimiento": "01/07/1995",
+          "origen": "Oregon",
+          "altura": 2.03,
+          "peso": 98,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Robert Covington",
+        "href": "https://www.nba.com/players/robert/covington/203496",
+        "info": {
+          "nacimiento": "12/14/1990",
+          "origen": "TennesseeState",
+          "altura": 2.01,
+          "peso": 94.8,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Jarrett Culver",
+        "href": "https://www.nba.com/players/jarrett/culver/1629633",
+        "info": {
+          "nacimiento": "02/20/1999",
+          "origen": "TexasTech",
+          "altura": 1.98,
+          "peso": 88.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Gorgui Dieng",
+        "href": "https://www.nba.com/players/gorgui/dieng/203476",
+        "info": {
+          "nacimiento": "01/18/1990",
+          "origen": "Louisville",
+          "altura": 2.08,
+          "peso": 114.3,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Treveon Graham",
+        "href": "https://www.nba.com/players/treveon/graham/1626203",
+        "info": {
+          "nacimiento": "10/28/1993",
+          "origen": "VaCommonwealth",
+          "altura": 1.96,
+          "peso": 99.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Jake Layman",
+        "href": "https://www.nba.com/players/jake/layman/1627774",
+        "info": {
+          "nacimiento": "03/07/1994",
+          "origen": "Maryland",
+          "altura": 2.03,
+          "peso": 94.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Kelan Martin",
+        "href": "https://www.nba.com/players/kelan/martin/1629103",
+        "info": {
+          "nacimiento": "08/03/1995",
+          "origen": "Butler",
+          "altura": 1.96,
+          "peso": 104.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jordan McLaughlin",
+        "href": "https://www.nba.com/players/jordan/mclaughlin/1629162",
+        "info": {
+          "nacimiento": "04/09/1996",
+          "origen": "USC",
+          "altura": 1.8,
+          "peso": 83.9,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Shabazz Napier",
+        "href": "https://www.nba.com/players/shabazz/napier/203894",
+        "info": {
+          "nacimiento": "07/14/1991",
+          "origen": "Connecticut",
+          "altura": 1.83,
+          "peso": 79.4,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Jaylen Nowell",
+        "href": "https://www.nba.com/players/jaylen/nowell/1629669",
+        "info": {
+          "nacimiento": "07/09/1999",
+          "origen": "Washington",
+          "altura": 1.93,
+          "peso": 91.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Josh Okogie",
+        "href": "https://www.nba.com/players/josh/okogie/1629006",
+        "info": {
+          "nacimiento": "09/01/1998",
+          "origen": "GeorgiaInstituteofTechnology",
+          "altura": 1.93,
+          "peso": 96.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Naz Reid",
+        "href": "https://www.nba.com/players/naz/reid/1629675",
+        "info": {
+          "nacimiento": "08/26/1999",
+          "origen": "LouisianaState",
+          "altura": 2.06,
+          "peso": 119.8,
+          "debut": null
+        }
+      },
+      {
+        "title": "Jeff Teague",
+        "href": "https://www.nba.com/players/jeff/teague/201952",
+        "info": {
+          "nacimiento": "06/10/1988",
+          "origen": "WakeForest",
+          "altura": 1.9,
+          "peso": 88.5,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Karl-Anthony Towns",
+        "href": "https://www.nba.com/players/karl-anthony/towns/1626157",
+        "info": {
+          "nacimiento": "11/15/1995",
+          "origen": "Kentucky",
+          "altura": 2.11,
+          "peso": 112.5,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Noah Vonleh",
+        "href": "https://www.nba.com/players/noah/vonleh/203943",
+        "info": {
+          "nacimiento": "08/24/1995",
+          "origen": "Indiana",
+          "altura": 2.08,
+          "peso": 116.6,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Andrew Wiggins",
+        "href": "https://www.nba.com/players/andrew/wiggins/203952",
+        "info": {
+          "nacimiento": "02/23/1995",
+          "origen": "Kansas",
+          "altura": 2.01,
+          "peso": 89.4,
+          "debut": 2014
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "New Orleans Pelicans",
+    "teamRef": "https://www.nba.com/teams/pelicans",
+    "players": [
+      {
+        "title": "Nickeil Alexander-Walker",
+        "href": "https://www.nba.com/players/nickeil/alexander-walker/1629638",
+        "info": {
+          "nacimiento": "09/02/1998",
+          "origen": "VirginiaTech",
+          "altura": 1.96,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Lonzo Ball",
+        "href": "https://www.nba.com/players/lonzo/ball/1628366",
+        "info": {
+          "nacimiento": "10/27/1997",
+          "origen": "UCLA",
+          "altura": 1.98,
+          "peso": 86.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Zylan Cheatham",
+        "href": "https://www.nba.com/players/zylan/cheatham/1629597",
+        "info": {
+          "nacimiento": "11/17/1995",
+          "origen": "ArizonaState",
+          "altura": 1.96,
+          "peso": 99.8,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Derrick Favors",
+        "href": "https://www.nba.com/players/derrick/favors/202324",
+        "info": {
+          "nacimiento": "07/15/1991",
+          "origen": "GeorgiaTech",
+          "altura": 2.06,
+          "peso": 120.2,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Josh Gray",
+        "href": "https://www.nba.com/players/josh/gray/1627982",
+        "info": {
+          "nacimiento": "09/09/1993",
+          "origen": "LouisianaState",
+          "altura": 1.83,
+          "peso": 81.6,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Josh Hart",
+        "href": "https://www.nba.com/players/josh/hart/1628404",
+        "info": {
+          "nacimiento": "03/06/1995",
+          "origen": "Villanova",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Jaxson Hayes",
+        "href": "https://www.nba.com/players/jaxson/hayes/1629637",
+        "info": {
+          "nacimiento": "05/23/2000",
+          "origen": "Texas",
+          "altura": 2.11,
+          "peso": 99.8,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jrue Holiday",
+        "href": "https://www.nba.com/players/jrue/holiday/201950",
+        "info": {
+          "nacimiento": "06/12/1990",
+          "origen": "UCLA",
+          "altura": 1.9,
+          "peso": 93,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Brandon Ingram",
+        "href": "https://www.nba.com/players/brandon/ingram/1627742",
+        "info": {
+          "nacimiento": "09/02/1997",
+          "origen": "Duke",
+          "altura": 2.01,
+          "peso": 86.2,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Frank Jackson",
+        "href": "https://www.nba.com/players/frank/jackson/1628402",
+        "info": {
+          "nacimiento": "05/04/1998",
+          "origen": "Duke",
+          "altura": 1.9,
+          "peso": 93,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Nicolo Melli",
+        "href": "https://www.nba.com/players/nicolo/melli/1629740",
+        "info": {
+          "nacimiento": "01/26/1991",
+          "origen": null,
+          "altura": 2.06,
+          "peso": 107,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Darius Miller",
+        "href": "https://www.nba.com/players/darius/miller/203121",
+        "info": {
+          "nacimiento": "03/21/1990",
+          "origen": "Kentucky",
+          "altura": 1.98,
+          "peso": 102.1,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "E'Twaun Moore",
+        "href": "https://www.nba.com/players/e'twaun/moore/202734",
+        "info": {
+          "nacimiento": "02/25/1989",
+          "origen": "Purdue",
+          "altura": 1.9,
+          "peso": 86.6,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Jahlil Okafor",
+        "href": "https://www.nba.com/players/jahlil/okafor/1626143",
+        "info": {
+          "nacimiento": "12/15/1995",
+          "origen": "Duke",
+          "altura": 2.08,
+          "peso": 122.5,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "JJ Redick",
+        "href": "https://www.nba.com/players/jj/redick/200755",
+        "info": {
+          "nacimiento": "06/24/1984",
+          "origen": "Duke",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Kenrich Williams",
+        "href": "https://www.nba.com/players/kenrich/williams/1629026",
+        "info": {
+          "nacimiento": "12/02/1994",
+          "origen": "TexasChristian",
+          "altura": 1.98,
+          "peso": 95.3,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Zion Williamson",
+        "href": "https://www.nba.com/players/zion/williamson/1629627",
+        "info": {
+          "nacimiento": "07/06/2000",
+          "origen": "Duke",
+          "altura": 1.98,
+          "peso": 128.8,
+          "debut": null
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "New York Knicks",
+    "teamRef": "https://www.nba.com/teams/knicks",
+    "players": [
+      {
+        "title": "Kadeem Allen",
+        "href": "https://www.nba.com/players/kadeem/allen/1628443",
+        "info": {
+          "nacimiento": "01/15/1993",
+          "origen": "Arizona",
+          "altura": 1.85,
+          "peso": 90.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "RJ Barrett",
+        "href": "https://www.nba.com/players/rj/barrett/1629628",
+        "info": {
+          "nacimiento": "06/14/2000",
+          "origen": "Duke",
+          "altura": 1.98,
+          "peso": 97.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Ignas Brazdeikis",
+        "href": "https://www.nba.com/players/ignas/brazdeikis/1629649",
+        "info": {
+          "nacimiento": "01/08/1999",
+          "origen": "Michigan",
+          "altura": 1.98,
+          "peso": 100.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Reggie Bullock",
+        "href": "https://www.nba.com/players/reggie/bullock/203493",
+        "info": {
+          "nacimiento": "03/16/1991",
+          "origen": "NorthCarolina",
+          "altura": 1.98,
+          "peso": 93,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Damyean Dotson",
+        "href": "https://www.nba.com/players/damyean/dotson/1628422",
+        "info": {
+          "nacimiento": "05/06/1994",
+          "origen": "Houston",
+          "altura": 1.96,
+          "peso": 95.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Wayne Ellington",
+        "href": "https://www.nba.com/players/wayne/ellington/201961",
+        "info": {
+          "nacimiento": "11/29/1987",
+          "origen": "NorthCarolina",
+          "altura": 1.93,
+          "peso": 93.9,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Taj Gibson",
+        "href": "https://www.nba.com/players/taj/gibson/201959",
+        "info": {
+          "nacimiento": "06/24/1985",
+          "origen": "USC",
+          "altura": 2.06,
+          "peso": 105.2,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Kevin Knox II",
+        "href": "https://www.nba.com/players/kevin/knox_ii/1628995",
+        "info": {
+          "nacimiento": "08/11/1999",
+          "origen": "Kentucky",
+          "altura": 2.01,
+          "peso": 97.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Marcus Morris Sr.",
+        "href": "https://www.nba.com/players/marcus/morris_sr./202694",
+        "info": {
+          "nacimiento": "09/02/1989",
+          "origen": "Kansas",
+          "altura": 2.03,
+          "peso": 98.9,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Frank Ntilikina",
+        "href": "https://www.nba.com/players/frank/ntilikina/1628373",
+        "info": {
+          "nacimiento": "07/28/1998",
+          "origen": null,
+          "altura": 1.93,
+          "peso": 90.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Elfrid Payton",
+        "href": "https://www.nba.com/players/elfrid/payton/203901",
+        "info": {
+          "nacimiento": "02/22/1994",
+          "origen": "Louisana-Lafayette",
+          "altura": 1.9,
+          "peso": 88.5,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Bobby Portis",
+        "href": "https://www.nba.com/players/bobby/portis/1626171",
+        "info": {
+          "nacimiento": "02/10/1995",
+          "origen": "Arkansas",
+          "altura": 2.08,
+          "peso": 113.4,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Ivan Rabb",
+        "href": "https://www.nba.com/players/ivan/rabb/1628397",
+        "info": {
+          "nacimiento": "02/04/1997",
+          "origen": "UniversityofCalifornia,Berkeley",
+          "altura": 2.08,
+          "peso": 99.8,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Julius Randle",
+        "href": "https://www.nba.com/players/julius/randle/203944",
+        "info": {
+          "nacimiento": "11/29/1994",
+          "origen": "Kentucky",
+          "altura": 2.03,
+          "peso": 113.4,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Mitchell Robinson",
+        "href": "https://www.nba.com/players/mitchell/robinson/1629011",
+        "info": {
+          "nacimiento": "04/01/1998",
+          "origen": "WesternKentucky",
+          "altura": 2.13,
+          "peso": 108.9,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Dennis Smith Jr.",
+        "href": "https://www.nba.com/players/dennis/smith_jr./1628372",
+        "info": {
+          "nacimiento": "11/25/1997",
+          "origen": "NorthCarolinaState",
+          "altura": 1.88,
+          "peso": 93,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Allonzo Trier",
+        "href": "https://www.nba.com/players/allonzo/trier/1629019",
+        "info": {
+          "nacimiento": "01/17/1996",
+          "origen": "Arizona",
+          "altura": 1.93,
+          "peso": 90.7,
+          "debut": 2018
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Oklahoma City Thunder",
+    "teamRef": "https://www.nba.com/teams/thunder",
+    "players": [
+      {
+        "title": "Steven Adams",
+        "href": "https://www.nba.com/players/steven/adams/203500",
+        "info": {
+          "nacimiento": "07/20/1993",
+          "origen": "Pittsburgh",
+          "altura": 2.11,
+          "peso": 120.2,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Darius Bazley",
+        "href": "https://www.nba.com/players/darius/bazley/1629647",
+        "info": {
+          "nacimiento": "06/12/2000",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 94.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Deonte Burton",
+        "href": "https://www.nba.com/players/deonte/burton/1629126",
+        "info": {
+          "nacimiento": "01/31/1994",
+          "origen": "IowaState",
+          "altura": 1.93,
+          "peso": 108.9,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Hamidou Diallo",
+        "href": "https://www.nba.com/players/hamidou/diallo/1628977",
+        "info": {
+          "nacimiento": "07/31/1998",
+          "origen": "Kentucky",
+          "altura": 1.96,
+          "peso": 91.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Luguentz Dort",
+        "href": "https://www.nba.com/players/luguentz/dort/1629652",
+        "info": {
+          "nacimiento": "04/19/1999",
+          "origen": "ArizonaState",
+          "altura": 1.9,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Terrance Ferguson",
+        "href": "https://www.nba.com/players/terrance/ferguson/1628390",
+        "info": {
+          "nacimiento": "05/17/1998",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 86.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Danilo Gallinari",
+        "href": "https://www.nba.com/players/danilo/gallinari/201568",
+        "info": {
+          "nacimiento": "08/08/1988",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 105.7,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Shai Gilgeous-Alexander",
+        "href": "https://www.nba.com/players/shai/gilgeous-alexander/1628983",
+        "info": {
+          "nacimiento": "07/12/1998",
+          "origen": "Kentucky",
+          "altura": 1.96,
+          "peso": 81.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Devon Hall",
+        "href": "https://www.nba.com/players/devon/hall/1628985",
+        "info": {
+          "nacimiento": "07/07/1995",
+          "origen": "Virginia",
+          "altura": 1.88,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Mike Muscala",
+        "href": "https://www.nba.com/players/mike/muscala/203488",
+        "info": {
+          "nacimiento": "07/01/1991",
+          "origen": "Bucknell",
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Abdel Nader",
+        "href": "https://www.nba.com/players/abdel/nader/1627846",
+        "info": {
+          "nacimiento": "09/25/1993",
+          "origen": "IowaState",
+          "altura": 1.96,
+          "peso": 102.1,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Nerlens Noel",
+        "href": "https://www.nba.com/players/nerlens/noel/203457",
+        "info": {
+          "nacimiento": "04/10/1994",
+          "origen": "Kentucky",
+          "altura": 2.08,
+          "peso": 99.8,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Justin Patton",
+        "href": "https://www.nba.com/players/justin/patton/1628383",
+        "info": {
+          "nacimiento": "06/14/1997",
+          "origen": "Creighton",
+          "altura": 2.11,
+          "peso": 109.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Chris Paul",
+        "href": "https://www.nba.com/players/chris/paul/101108",
+        "info": {
+          "nacimiento": "05/06/1985",
+          "origen": "WakeForest",
+          "altura": 1.85,
+          "peso": 79.4,
+          "debut": 2005
+        }
+      },
+      {
+        "title": "Andre Roberson",
+        "href": "https://www.nba.com/players/andre/roberson/203460",
+        "info": {
+          "nacimiento": "12/04/1991",
+          "origen": "Colorado",
+          "altura": 2.01,
+          "peso": 95.3,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Dennis Schroder",
+        "href": "https://www.nba.com/players/dennis/schroder/203471",
+        "info": {
+          "nacimiento": "09/15/1993",
+          "origen": null,
+          "altura": 1.85,
+          "peso": 78,
+          "debut": 2013
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Orlando Magic",
+    "teamRef": "https://www.nba.com/teams/magic",
+    "players": [
+      {
+        "title": "Al-Farouq Aminu",
+        "href": "https://www.nba.com/players/al-farouq/aminu/202329",
+        "info": {
+          "nacimiento": "09/21/1990",
+          "origen": "WakeForest",
+          "altura": 2.03,
+          "peso": 99.8,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "D.J. Augustin",
+        "href": "https://www.nba.com/players/d.j./augustin/201571",
+        "info": {
+          "nacimiento": "11/10/1987",
+          "origen": "Texas",
+          "altura": 1.8,
+          "peso": 83,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Mo Bamba",
+        "href": "https://www.nba.com/players/mo/bamba/1628964",
+        "info": {
+          "nacimiento": "05/12/1998",
+          "origen": "UniversityofTexasatAustin",
+          "altura": 2.13,
+          "peso": 104.8,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Khem Birch",
+        "href": "https://www.nba.com/players/khem/birch/203920",
+        "info": {
+          "nacimiento": "09/28/1992",
+          "origen": "UNLV",
+          "altura": 2.06,
+          "peso": 105.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Michael Carter-Williams",
+        "href": "https://www.nba.com/players/michael/carter-williams/203487",
+        "info": {
+          "nacimiento": "10/10/1991",
+          "origen": "Syracuse",
+          "altura": 1.96,
+          "peso": 86.2,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Evan Fournier",
+        "href": "https://www.nba.com/players/evan/fournier/203095",
+        "info": {
+          "nacimiento": "10/29/1992",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 93,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Melvin Frazier Jr.",
+        "href": "https://www.nba.com/players/melvin/frazier_jr./1628982",
+        "info": {
+          "nacimiento": "08/30/1996",
+          "origen": "Tulane",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Markelle Fultz",
+        "href": "https://www.nba.com/players/markelle/fultz/1628365",
+        "info": {
+          "nacimiento": "05/29/1998",
+          "origen": "Washington",
+          "altura": 1.9,
+          "peso": 94.8,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Aaron Gordon",
+        "href": "https://www.nba.com/players/aaron/gordon/203932",
+        "info": {
+          "nacimiento": "09/16/1995",
+          "origen": "Arizona",
+          "altura": 2.03,
+          "peso": 106.6,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Jonathan Isaac",
+        "href": "https://www.nba.com/players/jonathan/isaac/1628371",
+        "info": {
+          "nacimiento": "10/03/1997",
+          "origen": "FloridaState",
+          "altura": 2.11,
+          "peso": 104.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Wes Iwundu",
+        "href": "https://www.nba.com/players/wes/iwundu/1628411",
+        "info": {
+          "nacimiento": "12/20/1994",
+          "origen": "KansasState",
+          "altura": 1.98,
+          "peso": 88.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Amile Jefferson",
+        "href": "https://www.nba.com/players/amile/jefferson/1628518",
+        "info": {
+          "nacimiento": "05/07/1993",
+          "origen": "Duke",
+          "altura": 2.06,
+          "peso": 100.7,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "BJ Johnson",
+        "href": "https://www.nba.com/players/bj/johnson/1629168",
+        "info": {
+          "nacimiento": "12/21/1995",
+          "origen": "LaSalle",
+          "altura": 2.01,
+          "peso": 90.7,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Josh Magette",
+        "href": "https://www.nba.com/players/josh/magette/203705",
+        "info": {
+          "nacimiento": "11/28/1989",
+          "origen": "AlabamaHuntsville",
+          "altura": 1.85,
+          "peso": 72.6,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Terrence Ross",
+        "href": "https://www.nba.com/players/terrence/ross/203082",
+        "info": {
+          "nacimiento": "02/05/1991",
+          "origen": "Washington",
+          "altura": 1.98,
+          "peso": 93.4,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Nikola Vucevic",
+        "href": "https://www.nba.com/players/nikola/vucevic/202696",
+        "info": {
+          "nacimiento": "10/24/1990",
+          "origen": "USC",
+          "altura": 2.11,
+          "peso": 117.9,
+          "debut": 2011
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Philadelphia 76ers",
+    "teamRef": "https://www.nba.com/teams/sixers",
+    "players": [
+      {
+        "title": "Jonah Bolden",
+        "href": "https://www.nba.com/players/jonah/bolden/1628413",
+        "info": {
+          "nacimiento": "01/02/1996",
+          "origen": "UCLA",
+          "altura": 2.03,
+          "peso": 102.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Trey Burke",
+        "href": "https://www.nba.com/players/trey/burke/203504",
+        "info": {
+          "nacimiento": "11/12/1992",
+          "origen": "Michigan",
+          "altura": 1.83,
+          "peso": 83.9,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Joel Embiid",
+        "href": "https://www.nba.com/players/joel/embiid/203954",
+        "info": {
+          "nacimiento": "03/16/1994",
+          "origen": "Kansas",
+          "altura": 2.13,
+          "peso": 127,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "James Ennis III",
+        "href": "https://www.nba.com/players/james/ennis_iii/203516",
+        "info": {
+          "nacimiento": "07/01/1990",
+          "origen": "CalState-LongBeach",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Tobias Harris",
+        "href": "https://www.nba.com/players/tobias/harris/202699",
+        "info": {
+          "nacimiento": "07/15/1992",
+          "origen": "Tennessee",
+          "altura": 2.03,
+          "peso": 102.5,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Al Horford",
+        "href": "https://www.nba.com/players/al/horford/201143",
+        "info": {
+          "nacimiento": "06/03/1986",
+          "origen": "Florida",
+          "altura": 2.06,
+          "peso": 108.9,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Furkan Korkmaz",
+        "href": "https://www.nba.com/players/furkan/korkmaz/1627788",
+        "info": {
+          "nacimiento": "07/24/1997",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 91.6,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Shake Milton",
+        "href": "https://www.nba.com/players/shake/milton/1629003",
+        "info": {
+          "nacimiento": "09/26/1996",
+          "origen": "SouthernMethodist",
+          "altura": 1.96,
+          "peso": 93,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Raul Neto",
+        "href": "https://www.nba.com/players/raul/neto/203526",
+        "info": {
+          "nacimiento": "05/19/1992",
+          "origen": null,
+          "altura": 1.85,
+          "peso": 81.6,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Kyle O'Quinn",
+        "href": "https://www.nba.com/players/kyle/o'quinn/203124",
+        "info": {
+          "nacimiento": "03/26/1990",
+          "origen": "NorfolkState",
+          "altura": 2.06,
+          "peso": 113.4,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Norvel Pelle",
+        "href": "https://www.nba.com/players/norvel/pelle/203658",
+        "info": {
+          "nacimiento": "02/03/1993",
+          "origen": "Iona",
+          "altura": 2.08,
+          "peso": 104.8,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Josh Richardson",
+        "href": "https://www.nba.com/players/josh/richardson/1626196",
+        "info": {
+          "nacimiento": "09/15/1993",
+          "origen": "Tennessee",
+          "altura": 1.96,
+          "peso": 90.7,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Mike Scott",
+        "href": "https://www.nba.com/players/mike/scott/203118",
+        "info": {
+          "nacimiento": "07/16/1988",
+          "origen": "Virginia",
+          "altura": 2.01,
+          "peso": 107.5,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Marial Shayok",
+        "href": "https://www.nba.com/players/marial/shayok/1629621",
+        "info": {
+          "nacimiento": "07/26/1995",
+          "origen": "IowaState",
+          "altura": 1.96,
+          "peso": 89.8,
+          "debut": null
+        }
+      },
+      {
+        "title": "Ben Simmons",
+        "href": "https://www.nba.com/players/ben/simmons/1627732",
+        "info": {
+          "nacimiento": "07/20/1996",
+          "origen": "LouisianaState",
+          "altura": 2.08,
+          "peso": 108.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Zhaire Smith",
+        "href": "https://www.nba.com/players/zhaire/smith/1629015",
+        "info": {
+          "nacimiento": "06/04/1999",
+          "origen": "TexasTech",
+          "altura": 1.9,
+          "peso": 93,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Matisse Thybulle",
+        "href": "https://www.nba.com/players/matisse/thybulle/1629680",
+        "info": {
+          "nacimiento": "03/04/1997",
+          "origen": "Washington",
+          "altura": 1.96,
+          "peso": 91.2,
+          "debut": 2019
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Phoenix Suns",
+    "teamRef": "https://www.nba.com/teams/suns",
+    "players": [
+      {
+        "title": "Deandre Ayton",
+        "href": "https://www.nba.com/players/deandre/ayton/1629028",
+        "info": {
+          "nacimiento": "07/23/1998",
+          "origen": "Arizona",
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Aron Baynes",
+        "href": "https://www.nba.com/players/aron/baynes/203382",
+        "info": {
+          "nacimiento": "12/09/1986",
+          "origen": "WashingtonState",
+          "altura": 2.08,
+          "peso": 117.9,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Devin Booker",
+        "href": "https://www.nba.com/players/devin/booker/1626164",
+        "info": {
+          "nacimiento": "10/30/1996",
+          "origen": "Kentucky",
+          "altura": 1.96,
+          "peso": 93.4,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Mikal Bridges",
+        "href": "https://www.nba.com/players/mikal/bridges/1628969",
+        "info": {
+          "nacimiento": "08/30/1996",
+          "origen": "Villanova",
+          "altura": 1.98,
+          "peso": 94.8,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Jevon Carter",
+        "href": "https://www.nba.com/players/jevon/carter/1628975",
+        "info": {
+          "nacimiento": "09/14/1995",
+          "origen": "WestVirginia",
+          "altura": 1.85,
+          "peso": 90.7,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Cheick Diallo",
+        "href": "https://www.nba.com/players/cheick/diallo/1627767",
+        "info": {
+          "nacimiento": "09/13/1996",
+          "origen": "Kansas",
+          "altura": 2.03,
+          "peso": 99.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Jared Harper",
+        "href": "https://www.nba.com/players/jared/harper/1629607",
+        "info": {
+          "nacimiento": "09/14/1997",
+          "origen": "Auburn",
+          "altura": 1.8,
+          "peso": 79.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Ty Jerome",
+        "href": "https://www.nba.com/players/ty/jerome/1629660",
+        "info": {
+          "nacimiento": "07/08/1997",
+          "origen": "Virginia",
+          "altura": 1.96,
+          "peso": 88.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Cameron Johnson",
+        "href": "https://www.nba.com/players/cameron/johnson/1629661",
+        "info": {
+          "nacimiento": "03/03/1996",
+          "origen": "NorthCarolina",
+          "altura": 2.03,
+          "peso": 95.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Tyler Johnson",
+        "href": "https://www.nba.com/players/tyler/johnson/204020",
+        "info": {
+          "nacimiento": "05/07/1992",
+          "origen": "FresnoState",
+          "altura": 1.9,
+          "peso": 84.4,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Frank Kaminsky",
+        "href": "https://www.nba.com/players/frank/kaminsky/1626163",
+        "info": {
+          "nacimiento": "04/04/1993",
+          "origen": "Wisconsin",
+          "altura": 2.13,
+          "peso": 108.9,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Jalen Lecque",
+        "href": "https://www.nba.com/players/jalen/lecque/1629665",
+        "info": {
+          "nacimiento": "06/13/2000",
+          "origen": null,
+          "altura": 1.93,
+          "peso": 83.9,
+          "debut": null
+        }
+      },
+      {
+        "title": "Elie Okobo",
+        "href": "https://www.nba.com/players/elie/okobo/1629059",
+        "info": {
+          "nacimiento": "10/23/1997",
+          "origen": null,
+          "altura": 1.9,
+          "peso": 86.2,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Kelly Oubre Jr.",
+        "href": "https://www.nba.com/players/kelly/oubre_jr./1626162",
+        "info": {
+          "nacimiento": "12/09/1995",
+          "origen": "Kansas",
+          "altura": 2.01,
+          "peso": 92.1,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Ricky Rubio",
+        "href": "https://www.nba.com/players/ricky/rubio/201937",
+        "info": {
+          "nacimiento": "10/21/1990",
+          "origen": null,
+          "altura": 1.9,
+          "peso": 86.2,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Dario Saric",
+        "href": "https://www.nba.com/players/dario/saric/203967",
+        "info": {
+          "nacimiento": "04/08/1994",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 102.1,
+          "debut": 2016
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Portland Trail Blazers",
+    "teamRef": "https://www.nba.com/teams/blazers",
+    "players": [
+      {
+        "title": "Carmelo Anthony",
+        "href": "https://www.nba.com/players/carmelo/anthony/2546",
+        "info": {
+          "nacimiento": "05/29/1984",
+          "origen": "Syracuse",
+          "altura": 2.03,
+          "peso": 108,
+          "debut": 2003
+        }
+      },
+      {
+        "title": "Kent Bazemore",
+        "href": "https://www.nba.com/players/kent/bazemore/203145",
+        "info": {
+          "nacimiento": "07/01/1989",
+          "origen": "OldDominion",
+          "altura": 1.93,
+          "peso": 88.5,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Moses Brown",
+        "href": "https://www.nba.com/players/moses/brown/1629650",
+        "info": {
+          "nacimiento": "10/13/1999",
+          "origen": "UCLA",
+          "altura": 2.18,
+          "peso": 111.1,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Zach Collins",
+        "href": "https://www.nba.com/players/zach/collins/1628380",
+        "info": {
+          "nacimiento": "11/19/1997",
+          "origen": "Gonzaga",
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Mario Hezonja",
+        "href": "https://www.nba.com/players/mario/hezonja/1626209",
+        "info": {
+          "nacimiento": "02/25/1995",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 99.8,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Jaylen Hoard",
+        "href": "https://www.nba.com/players/jaylen/hoard/1629658",
+        "info": {
+          "nacimiento": "03/30/1999",
+          "origen": "WakeForest",
+          "altura": 2.03,
+          "peso": 98,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Rodney Hood",
+        "href": "https://www.nba.com/players/rodney/hood/203918",
+        "info": {
+          "nacimiento": "10/20/1992",
+          "origen": "Duke",
+          "altura": 2.03,
+          "peso": 94.3,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Skal Labissiere",
+        "href": "https://www.nba.com/players/skal/labissiere/1627746",
+        "info": {
+          "nacimiento": "03/18/1996",
+          "origen": "Kentucky",
+          "altura": 2.08,
+          "peso": 106.6,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Damian Lillard",
+        "href": "https://www.nba.com/players/damian/lillard/203081",
+        "info": {
+          "nacimiento": "07/15/1990",
+          "origen": "WeberState",
+          "altura": 1.88,
+          "peso": 88.5,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Nassir Little",
+        "href": "https://www.nba.com/players/nassir/little/1629642",
+        "info": {
+          "nacimiento": "02/11/2000",
+          "origen": "NorthCarolina",
+          "altura": 1.96,
+          "peso": 99.8,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "CJ McCollum",
+        "href": "https://www.nba.com/players/cj/mccollum/203468",
+        "info": {
+          "nacimiento": "09/19/1991",
+          "origen": "Lehigh",
+          "altura": 1.9,
+          "peso": 86.2,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Jusuf Nurkic",
+        "href": "https://www.nba.com/players/jusuf/nurkic/203994",
+        "info": {
+          "nacimiento": "08/23/1994",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 131.5,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Anfernee Simons",
+        "href": "https://www.nba.com/players/anfernee/simons/1629014",
+        "info": {
+          "nacimiento": "06/08/1999",
+          "origen": null,
+          "altura": 1.9,
+          "peso": 82.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Anthony Tolliver",
+        "href": "https://www.nba.com/players/anthony/tolliver/201229",
+        "info": {
+          "nacimiento": "06/01/1985",
+          "origen": "Creighton",
+          "altura": 2.03,
+          "peso": 108.9,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Gary Trent Jr.",
+        "href": "https://www.nba.com/players/gary/trent_jr./1629018",
+        "info": {
+          "nacimiento": "01/18/1999",
+          "origen": "Duke",
+          "altura": 1.96,
+          "peso": 94.8,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Hassan Whiteside",
+        "href": "https://www.nba.com/players/hassan/whiteside/202355",
+        "info": {
+          "nacimiento": "06/13/1989",
+          "origen": "Marshall",
+          "altura": 2.13,
+          "peso": 120.2,
+          "debut": 2010
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Sacramento Kings",
+    "teamRef": "https://www.nba.com/teams/kings",
+    "players": [
+      {
+        "title": "Trevor Ariza",
+        "href": "https://www.nba.com/players/trevor/ariza/2772",
+        "info": {
+          "nacimiento": "06/30/1985",
+          "origen": "UCLA",
+          "altura": 2.03,
+          "peso": 97.5,
+          "debut": 2004
+        }
+      },
+      {
+        "title": "Marvin Bagley III",
+        "href": "https://www.nba.com/players/marvin/bagley_iii/1628963",
+        "info": {
+          "nacimiento": "03/14/1999",
+          "origen": "Duke",
+          "altura": 2.11,
+          "peso": 106.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Harrison Barnes",
+        "href": "https://www.nba.com/players/harrison/barnes/203084",
+        "info": {
+          "nacimiento": "05/30/1992",
+          "origen": "NorthCarolina",
+          "altura": 2.03,
+          "peso": 102.1,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Nemanja Bjelica",
+        "href": "https://www.nba.com/players/nemanja/bjelica/202357",
+        "info": {
+          "nacimiento": "05/09/1988",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 106.1,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Bogdan Bogdanovic",
+        "href": "https://www.nba.com/players/bogdan/bogdanovic/203992",
+        "info": {
+          "nacimiento": "08/18/1992",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Dewayne Dedmon",
+        "href": "https://www.nba.com/players/dewayne/dedmon/203473",
+        "info": {
+          "nacimiento": "08/12/1989",
+          "origen": "USC",
+          "altura": 2.13,
+          "peso": 111.1,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Yogi Ferrell",
+        "href": "https://www.nba.com/players/yogi/ferrell/1627812",
+        "info": {
+          "nacimiento": "05/09/1993",
+          "origen": "Indiana",
+          "altura": 1.83,
+          "peso": 80.7,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "De'Aaron Fox",
+        "href": "https://www.nba.com/players/de'aaron/fox/1628368",
+        "info": {
+          "nacimiento": "12/20/1997",
+          "origen": "Kentucky",
+          "altura": 1.9,
+          "peso": 83.9,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Wenyen Gabriel",
+        "href": "https://www.nba.com/players/wenyen/gabriel/1629117",
+        "info": {
+          "nacimiento": "03/26/1997",
+          "origen": "Kentucky",
+          "altura": 2.06,
+          "peso": 93,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Harry Giles III",
+        "href": "https://www.nba.com/players/harry/giles_iii/1628385",
+        "info": {
+          "nacimiento": "04/22/1998",
+          "origen": "Duke",
+          "altura": 2.11,
+          "peso": 108.9,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Kyle Guy",
+        "href": "https://www.nba.com/players/kyle/guy/1629657",
+        "info": {
+          "nacimiento": "08/11/1997",
+          "origen": "Virginia",
+          "altura": 1.85,
+          "peso": 75.8,
+          "debut": null
+        }
+      },
+      {
+        "title": "Buddy Hield",
+        "href": "https://www.nba.com/players/buddy/hield/1627741",
+        "info": {
+          "nacimiento": "12/17/1992",
+          "origen": "Oklahoma",
+          "altura": 1.93,
+          "peso": 99.8,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Richaun Holmes",
+        "href": "https://www.nba.com/players/richaun/holmes/1626158",
+        "info": {
+          "nacimiento": "10/15/1993",
+          "origen": "BowlingGreen",
+          "altura": 2.08,
+          "peso": 106.6,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Justin James",
+        "href": "https://www.nba.com/players/justin/james/1629713",
+        "info": {
+          "nacimiento": "01/24/1997",
+          "origen": "Wyoming",
+          "altura": 2.01,
+          "peso": 86.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "DaQuan Jeffries",
+        "href": "https://www.nba.com/players/daquan/jeffries/1629610",
+        "info": {
+          "nacimiento": "08/30/1997",
+          "origen": "Tulsa",
+          "altura": 1.96,
+          "peso": 104.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Cory Joseph",
+        "href": "https://www.nba.com/players/cory/joseph/202709",
+        "info": {
+          "nacimiento": "08/20/1991",
+          "origen": "Texas",
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Caleb Swanigan",
+        "href": "https://www.nba.com/players/caleb/swanigan/1628403",
+        "info": {
+          "nacimiento": "04/18/1997",
+          "origen": "Purdue",
+          "altura": 2.06,
+          "peso": 117.9,
+          "debut": 2017
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "San Antonio Spurs",
+    "teamRef": "https://www.nba.com/teams/spurs",
+    "players": [
+      {
+        "title": "LaMarcus Aldridge",
+        "href": "https://www.nba.com/players/lamarcus/aldridge/200746",
+        "info": {
+          "nacimiento": "07/19/1985",
+          "origen": "Texas",
+          "altura": 2.11,
+          "peso": 113.4,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Marco Belinelli",
+        "href": "https://www.nba.com/players/marco/belinelli/201158",
+        "info": {
+          "nacimiento": "03/25/1986",
+          "origen": null,
+          "altura": 1.96,
+          "peso": 99.8,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "DeMarre Carroll",
+        "href": "https://www.nba.com/players/demarre/carroll/201960",
+        "info": {
+          "nacimiento": "07/27/1986",
+          "origen": "Missouri",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "DeMar DeRozan",
+        "href": "https://www.nba.com/players/demar/derozan/201942",
+        "info": {
+          "nacimiento": "08/07/1989",
+          "origen": "USC",
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Drew Eubanks",
+        "href": "https://www.nba.com/players/drew/eubanks/1629234",
+        "info": {
+          "nacimiento": "02/01/1997",
+          "origen": "OregonState",
+          "altura": 2.06,
+          "peso": 111.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Bryn Forbes",
+        "href": "https://www.nba.com/players/bryn/forbes/1627854",
+        "info": {
+          "nacimiento": "07/23/1993",
+          "origen": "MichiganState",
+          "altura": 1.88,
+          "peso": 93,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Rudy Gay",
+        "href": "https://www.nba.com/players/rudy/gay/200752",
+        "info": {
+          "nacimiento": "08/17/1986",
+          "origen": "Connecticut",
+          "altura": 2.03,
+          "peso": 113.4,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Keldon Johnson",
+        "href": "https://www.nba.com/players/keldon/johnson/1629640",
+        "info": {
+          "nacimiento": "10/11/1999",
+          "origen": "Kentucky",
+          "altura": 1.96,
+          "peso": 99.8,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Trey Lyles",
+        "href": "https://www.nba.com/players/trey/lyles/1626168",
+        "info": {
+          "nacimiento": "11/05/1995",
+          "origen": "Kentucky",
+          "altura": 2.06,
+          "peso": 106.1,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Chimezie Metu",
+        "href": "https://www.nba.com/players/chimezie/metu/1629002",
+        "info": {
+          "nacimiento": "03/22/1997",
+          "origen": "USC",
+          "altura": 2.06,
+          "peso": 102.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Patty Mills",
+        "href": "https://www.nba.com/players/patty/mills/201988",
+        "info": {
+          "nacimiento": "08/11/1988",
+          "origen": "St.Mary's(CA)",
+          "altura": 1.85,
+          "peso": 81.6,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Dejounte Murray",
+        "href": "https://www.nba.com/players/dejounte/murray/1627749",
+        "info": {
+          "nacimiento": "09/19/1996",
+          "origen": "Washington",
+          "altura": 1.93,
+          "peso": 81.6,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Jakob Poeltl",
+        "href": "https://www.nba.com/players/jakob/poeltl/1627751",
+        "info": {
+          "nacimiento": "10/15/1995",
+          "origen": "Utah",
+          "altura": 2.16,
+          "peso": 111.1,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Luka Samanic",
+        "href": "https://www.nba.com/players/luka/samanic/1629677",
+        "info": {
+          "nacimiento": "01/09/2000",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 103,
+          "debut": null
+        }
+      },
+      {
+        "title": "Lonnie Walker IV",
+        "href": "https://www.nba.com/players/lonnie/walker_iv/1629022",
+        "info": {
+          "nacimiento": "12/14/1998",
+          "origen": "Miami",
+          "altura": 1.96,
+          "peso": 92.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Quinndary Weatherspoon",
+        "href": "https://www.nba.com/players/quinndary/weatherspoon/1629683",
+        "info": {
+          "nacimiento": "09/10/1996",
+          "origen": "MississippiState",
+          "altura": 1.9,
+          "peso": 93,
+          "debut": null
+        }
+      },
+      {
+        "title": "Derrick White",
+        "href": "https://www.nba.com/players/derrick/white/1628401",
+        "info": {
+          "nacimiento": "07/02/1994",
+          "origen": "Colorado",
+          "altura": 1.93,
+          "peso": 86.2,
+          "debut": 2017
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Toronto Raptors",
+    "teamRef": "https://www.nba.com/teams/raptors",
+    "players": [
+      {
+        "title": "OG Anunoby",
+        "href": "https://www.nba.com/players/og/anunoby/1628384",
+        "info": {
+          "nacimiento": "07/17/1997",
+          "origen": "Indiana",
+          "altura": 2.01,
+          "peso": 105.2,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Chris Boucher",
+        "href": "https://www.nba.com/players/chris/boucher/1628449",
+        "info": {
+          "nacimiento": "01/11/1993",
+          "origen": "Oregon",
+          "altura": 2.06,
+          "peso": 90.7,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Oshae Brissett",
+        "href": "https://www.nba.com/players/oshae/brissett/1629052",
+        "info": {
+          "nacimiento": "06/20/1998",
+          "origen": "Syracuse",
+          "altura": 2.01,
+          "peso": 95.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Terence Davis",
+        "href": "https://www.nba.com/players/terence/davis/1629056",
+        "info": {
+          "nacimiento": "05/16/1997",
+          "origen": "Mississippi",
+          "altura": 1.93,
+          "peso": 91.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Marc Gasol",
+        "href": "https://www.nba.com/players/marc/gasol/201188",
+        "info": {
+          "nacimiento": "01/29/1985",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 115.7,
+          "debut": 2008
+        }
+      },
+      {
+        "title": "Dewan Hernandez",
+        "href": "https://www.nba.com/players/dewan/hernandez/1629608",
+        "info": {
+          "nacimiento": "12/09/1996",
+          "origen": "Miami",
+          "altura": 2.08,
+          "peso": 106.6,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Rondae Hollis-Jefferson",
+        "href": "https://www.nba.com/players/rondae/hollis-jefferson/1626178",
+        "info": {
+          "nacimiento": "01/03/1995",
+          "origen": "Arizona",
+          "altura": 1.98,
+          "peso": 98.4,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Serge Ibaka",
+        "href": "https://www.nba.com/players/serge/ibaka/201586",
+        "info": {
+          "nacimiento": "09/18/1989",
+          "origen": null,
+          "altura": 2.13,
+          "peso": 106.6,
+          "debut": 2009
+        }
+      },
+      {
+        "title": "Stanley Johnson",
+        "href": "https://www.nba.com/players/stanley/johnson/1626169",
+        "info": {
+          "nacimiento": "05/29/1996",
+          "origen": "Arizona",
+          "altura": 1.98,
+          "peso": 109.8,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Kyle Lowry",
+        "href": "https://www.nba.com/players/kyle/lowry/200768",
+        "info": {
+          "nacimiento": "03/25/1986",
+          "origen": "Villanova",
+          "altura": 1.83,
+          "peso": 88.9,
+          "debut": 2006
+        }
+      },
+      {
+        "title": "Patrick McCaw",
+        "href": "https://www.nba.com/players/patrick/mccaw/1627775",
+        "info": {
+          "nacimiento": "10/25/1995",
+          "origen": "UNLV",
+          "altura": 2.01,
+          "peso": 82.1,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Malcolm Miller",
+        "href": "https://www.nba.com/players/malcolm/miller/1626259",
+        "info": {
+          "nacimiento": "03/06/1993",
+          "origen": "HolyCross",
+          "altura": 2.01,
+          "peso": 95.3,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Shamorie Ponds",
+        "href": "https://www.nba.com/players/shamorie/ponds/1629044",
+        "info": {
+          "nacimiento": "06/29/1998",
+          "origen": "St.John's,N.Y.",
+          "altura": 1.83,
+          "peso": 79.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Norman Powell",
+        "href": "https://www.nba.com/players/norman/powell/1626181",
+        "info": {
+          "nacimiento": "05/25/1993",
+          "origen": "UCLA",
+          "altura": 1.9,
+          "peso": 97.5,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Pascal Siakam",
+        "href": "https://www.nba.com/players/pascal/siakam/1627783",
+        "info": {
+          "nacimiento": "04/02/1994",
+          "origen": "NewMexicoState",
+          "altura": 2.06,
+          "peso": 104.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Matt Thomas",
+        "href": "https://www.nba.com/players/matt/thomas/1629744",
+        "info": {
+          "nacimiento": "08/04/1994",
+          "origen": "IowaState",
+          "altura": 1.93,
+          "peso": 86.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Fred VanVleet",
+        "href": "https://www.nba.com/players/fred/vanvleet/1627832",
+        "info": {
+          "nacimiento": "02/25/1994",
+          "origen": "WichitaState",
+          "altura": 1.85,
+          "peso": 89.4,
+          "debut": 2016
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Utah Jazz",
+    "teamRef": "https://www.nba.com/teams/jazz",
+    "players": [
+      {
+        "title": "Bojan Bogdanovic",
+        "href": "https://www.nba.com/players/bojan/bogdanovic/202711",
+        "info": {
+          "nacimiento": "04/18/1989",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 102.5,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Tony Bradley",
+        "href": "https://www.nba.com/players/tony/bradley/1628396",
+        "info": {
+          "nacimiento": "01/08/1998",
+          "origen": "NorthCarolina",
+          "altura": 2.08,
+          "peso": 112.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Jarrell Brantley",
+        "href": "https://www.nba.com/players/jarrell/brantley/1629714",
+        "info": {
+          "nacimiento": "06/07/1996",
+          "origen": "CollegeofCharleston",
+          "altura": 1.96,
+          "peso": 113.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Mike Conley",
+        "href": "https://www.nba.com/players/mike/conley/201144",
+        "info": {
+          "nacimiento": "10/11/1987",
+          "origen": "OhioState",
+          "altura": 1.85,
+          "peso": 79.4,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Ed Davis",
+        "href": "https://www.nba.com/players/ed/davis/202334",
+        "info": {
+          "nacimiento": "06/05/1989",
+          "origen": "NorthCarolina",
+          "altura": 2.06,
+          "peso": 98.9,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Dante Exum",
+        "href": "https://www.nba.com/players/dante/exum/203957",
+        "info": {
+          "nacimiento": "07/13/1995",
+          "origen": null,
+          "altura": 1.96,
+          "peso": 97.1,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Rudy Gobert",
+        "href": "https://www.nba.com/players/rudy/gobert/203497",
+        "info": {
+          "nacimiento": "06/26/1992",
+          "origen": "France",
+          "altura": 2.16,
+          "peso": 117,
+          "debut": 2013
+        }
+      },
+      {
+        "title": "Jeff Green",
+        "href": "https://www.nba.com/players/jeff/green/201145",
+        "info": {
+          "nacimiento": "08/28/1986",
+          "origen": "Georgetown",
+          "altura": 2.03,
+          "peso": 106.6,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Joe Ingles",
+        "href": "https://www.nba.com/players/joe/ingles/204060",
+        "info": {
+          "nacimiento": "10/02/1987",
+          "origen": null,
+          "altura": 2.01,
+          "peso": 99.8,
+          "debut": 2014
+        }
+      },
+      {
+        "title": "Donovan Mitchell",
+        "href": "https://www.nba.com/players/donovan/mitchell/1628378",
+        "info": {
+          "nacimiento": "09/07/1996",
+          "origen": "Louisville",
+          "altura": 1.85,
+          "peso": 97.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Juwan Morgan",
+        "href": "https://www.nba.com/players/juwan/morgan/1629752",
+        "info": {
+          "nacimiento": "04/17/1997",
+          "origen": "Indiana",
+          "altura": 2.01,
+          "peso": 105.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Emmanuel Mudiay",
+        "href": "https://www.nba.com/players/emmanuel/mudiay/1626144",
+        "info": {
+          "nacimiento": "03/05/1996",
+          "origen": null,
+          "altura": 1.9,
+          "peso": 90.7,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "Georges Niang",
+        "href": "https://www.nba.com/players/georges/niang/1627777",
+        "info": {
+          "nacimiento": "06/17/1993",
+          "origen": "IowaState",
+          "altura": 2.01,
+          "peso": 104.3,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Royce O'Neale",
+        "href": "https://www.nba.com/players/royce/o'neale/1626220",
+        "info": {
+          "nacimiento": "06/05/1993",
+          "origen": "Baylor",
+          "altura": 1.93,
+          "peso": 102.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Miye Oni",
+        "href": "https://www.nba.com/players/miye/oni/1629671",
+        "info": {
+          "nacimiento": "08/04/1997",
+          "origen": "Yale",
+          "altura": 1.96,
+          "peso": 93.4,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Nigel Williams-Goss",
+        "href": "https://www.nba.com/players/nigel/williams-goss/1628430",
+        "info": {
+          "nacimiento": "09/16/1994",
+          "origen": "Gonzaga",
+          "altura": 1.88,
+          "peso": 86.2,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Justin Wright-Foreman",
+        "href": "https://www.nba.com/players/justin/wright-foreman/1629625",
+        "info": {
+          "nacimiento": "10/27/1997",
+          "origen": "Hofstra",
+          "altura": 1.83,
+          "peso": 86.2,
+          "debut": null
+        }
+      }
+    ]
+  },
+  {
+    "teamName": "Washington Wizards",
+    "teamRef": "https://www.nba.com/teams/wizards",
+    "players": [
+      {
+        "title": "Bradley Beal",
+        "href": "https://www.nba.com/players/bradley/beal/203078",
+        "info": {
+          "nacimiento": "06/28/1993",
+          "origen": "Florida",
+          "altura": 1.9,
+          "peso": 93.9,
+          "debut": 2012
+        }
+      },
+      {
+        "title": "Davis Bertans",
+        "href": "https://www.nba.com/players/davis/bertans/202722",
+        "info": {
+          "nacimiento": "11/12/1992",
+          "origen": null,
+          "altura": 2.08,
+          "peso": 102.1,
+          "debut": 2016
+        }
+      },
+      {
+        "title": "Isaac Bonga",
+        "href": "https://www.nba.com/players/isaac/bonga/1629067",
+        "info": {
+          "nacimiento": "11/08/1999",
+          "origen": null,
+          "altura": 2.03,
+          "peso": 81.6,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Troy Brown Jr.",
+        "href": "https://www.nba.com/players/troy/brown_jr./1628972",
+        "info": {
+          "nacimiento": "07/28/1999",
+          "origen": "Oregon",
+          "altura": 1.98,
+          "peso": 97.5,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Thomas Bryant",
+        "href": "https://www.nba.com/players/thomas/bryant/1628418",
+        "info": {
+          "nacimiento": "07/31/1997",
+          "origen": "Indiana",
+          "altura": 2.08,
+          "peso": 112.5,
+          "debut": 2017
+        }
+      },
+      {
+        "title": "Chris Chiozza",
+        "href": "https://www.nba.com/players/chris/chiozza/1629185",
+        "info": {
+          "nacimiento": "11/21/1995",
+          "origen": "Florida",
+          "altura": 1.8,
+          "peso": 79.4,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "Rui Hachimura",
+        "href": "https://www.nba.com/players/rui/hachimura/1629060",
+        "info": {
+          "nacimiento": "02/08/1998",
+          "origen": "Gonzaga",
+          "altura": 2.03,
+          "peso": 104.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Ian Mahinmi",
+        "href": "https://www.nba.com/players/ian/mahinmi/101133",
+        "info": {
+          "nacimiento": "11/05/1986",
+          "origen": null,
+          "altura": 2.11,
+          "peso": 118.8,
+          "debut": 2007
+        }
+      },
+      {
+        "title": "Garrison Mathews",
+        "href": "https://www.nba.com/players/garrison/mathews/1629726",
+        "info": {
+          "nacimiento": "10/24/1996",
+          "origen": "Lipscomb",
+          "altura": 1.96,
+          "peso": 97.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Jordan McRae",
+        "href": "https://www.nba.com/players/jordan/mcrae/203895",
+        "info": {
+          "nacimiento": "03/28/1991",
+          "origen": "Tennessee",
+          "altura": 1.96,
+          "peso": 81.2,
+          "debut": 2015
+        }
+      },
+      {
+        "title": "CJ Miles",
+        "href": "https://www.nba.com/players/cj/miles/101139",
+        "info": {
+          "nacimiento": "03/18/1987",
+          "origen": null,
+          "altura": 1.98,
+          "peso": 99.8,
+          "debut": 2005
+        }
+      },
+      {
+        "title": "Justin Robinson",
+        "href": "https://www.nba.com/players/justin/robinson/1629620",
+        "info": {
+          "nacimiento": "10/12/1997",
+          "origen": "VirginiaTech",
+          "altura": 1.85,
+          "peso": 88.5,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Admiral Schofield",
+        "href": "https://www.nba.com/players/admiral/schofield/1629678",
+        "info": {
+          "nacimiento": "03/30/1997",
+          "origen": "Tennessee",
+          "altura": 1.96,
+          "peso": 109.3,
+          "debut": 2019
+        }
+      },
+      {
+        "title": "Ish Smith",
+        "href": "https://www.nba.com/players/ish/smith/202397",
+        "info": {
+          "nacimiento": "07/05/1988",
+          "origen": "WakeForest",
+          "altura": 1.83,
+          "peso": 79.4,
+          "debut": 2010
+        }
+      },
+      {
+        "title": "Isaiah Thomas",
+        "href": "https://www.nba.com/players/isaiah/thomas/202738",
+        "info": {
+          "nacimiento": "02/07/1989",
+          "origen": "Washington",
+          "altura": 1.75,
+          "peso": 83.9,
+          "debut": 2011
+        }
+      },
+      {
+        "title": "Moritz Wagner",
+        "href": "https://www.nba.com/players/moritz/wagner/1629021",
+        "info": {
+          "nacimiento": "04/26/1997",
+          "origen": "Michigan",
+          "altura": 2.11,
+          "peso": 111.1,
+          "debut": 2018
+        }
+      },
+      {
+        "title": "John Wall",
+        "href": "https://www.nba.com/players/john/wall/202322",
+        "info": {
+          "nacimiento": "09/06/1990",
+          "origen": "Kentucky",
+          "altura": 1.93,
+          "peso": 95.3,
+          "debut": 2010
+        }
+      }
+    ]
+  }
+]
